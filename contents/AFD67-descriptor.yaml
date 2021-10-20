@@ -1,0 +1,85 @@
+id: 4307
+typeCode: AFD
+description: Content AFD 67 description
+mainGroup: free
+status: PUBLIC
+listModel: '4240'
+defaultModel: '4241'
+attributes:
+  - code: longtext05
+    value: null
+    values:
+      en: <p>Quasi eveniet dicta facere.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite01
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite01-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite01-boolean
+        value: null
+        values:
+          en: composite01 boolean field
+          it: composite01 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Quasi eveniet dicta facere.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Quasi eveniet dicta facere.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

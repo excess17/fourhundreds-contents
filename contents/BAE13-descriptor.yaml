@@ -1,0 +1,84 @@
+id: 8333
+typeCode: BAE
+description: Content BAE 13 description
+mainGroup: free
+status: PUBLIC
+listModel: '8320'
+defaultModel: '8321'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Quaerat numquam est eaque aut et dolor officiis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Quaerat numquam est eaque aut et dolor officiis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext07
+    value: null
+    values:
+      en: <p>Quaerat numquam est eaque aut et dolor officiis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Quaerat numquam est eaque aut et dolor officiis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

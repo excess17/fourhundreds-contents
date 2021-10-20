@@ -1,0 +1,94 @@
+id: 9630
+typeCode: BCA
+description: Content BCA 30 description
+mainGroup: free
+status: PUBLIC
+listModel: '9600'
+defaultModel: '9601'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Sed modi voluptas ratione ex in voluptates voluptatem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist03
+    value: null
+    values: {}
+    elements:
+      - code: monolist03
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist03
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Sed modi voluptas ratione ex in voluptates voluptatem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext08
+    value: null
+    values:
+      en: <p>Sed modi voluptas ratione ex in voluptates voluptatem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Sed modi voluptas ratione ex in voluptates voluptatem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

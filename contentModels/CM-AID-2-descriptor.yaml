@@ -1,0 +1,15 @@
+id: 6642
+contentType: AID
+description: AID - Details
+contentShape: |-
+  <div class="AID-container details">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

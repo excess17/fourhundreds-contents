@@ -1,0 +1,120 @@
+id: 7903
+typeCode: ALI
+description: Content ALI 63 description
+mainGroup: free
+status: PUBLIC
+listModel: '7840'
+defaultModel: '7841'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Voluptatem voluptatem debitis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext02
+    value: null
+    values:
+      en: <p>Voluptatem voluptatem debitis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Voluptatem voluptatem debitis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist05
+    value: null
+    values: {}
+    elements:
+      - code: monolist05
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist05
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite11
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite11-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite11-boolean
+        value: null
+        values:
+          en: composite11 boolean field
+          it: composite11 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Voluptatem voluptatem debitis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

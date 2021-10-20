@@ -1,0 +1,87 @@
+id: 9290
+typeCode: BBG
+description: Content BBG 10 description
+mainGroup: free
+status: PUBLIC
+listModel: '9280'
+defaultModel: '9281'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Voluptatem repellat voluptatem est neque odio ipsum assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite07
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite07-boolean
+        value: null
+        values:
+          en: composite07 boolean field
+          it: composite07 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Voluptatem repellat voluptatem est neque odio ipsum assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text01
+    value: null
+    values:
+      en: <p>Voluptatem repellat voluptatem est neque odio ipsum assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
+    value: null
+    values:
+      en: <p>Voluptatem repellat voluptatem est neque odio ipsum assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Voluptatem repellat voluptatem est neque odio ipsum assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

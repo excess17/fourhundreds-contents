@@ -1,0 +1,78 @@
+id: 7595
+typeCode: ALE
+description: Content ALE 75 description
+mainGroup: free
+status: PUBLIC
+listModel: '7520'
+defaultModel: '7521'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Iure et laboriosam et molestiae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Iure et laboriosam et molestiae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext07
+    value: null
+    values:
+      en: <p>Iure et laboriosam et molestiae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Iure et laboriosam et molestiae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

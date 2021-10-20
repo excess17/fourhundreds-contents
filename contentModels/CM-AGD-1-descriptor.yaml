@@ -1,0 +1,15 @@
+id: 5041
+contentType: AGD
+description: AGD - Default
+contentShape: |-
+  <div class="AGD-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

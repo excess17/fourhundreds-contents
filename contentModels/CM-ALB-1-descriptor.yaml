@@ -1,0 +1,15 @@
+id: 7281
+contentType: ALB
+description: ALB - Default
+contentShape: |-
+  <div class="ALB-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

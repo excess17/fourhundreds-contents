@@ -1,0 +1,72 @@
+id: 2220
+typeCode: ACH
+description: Content ACH 60 description
+mainGroup: free
+status: PUBLIC
+listModel: '2160'
+defaultModel: '2161'
+attributes:
+  - code: longtext02
+    value: null
+    values:
+      en: <p>Itaque omnis id itaque tempore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Itaque omnis id itaque tempore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext11
+    value: null
+    values:
+      en: <p>Itaque omnis id itaque tempore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Itaque omnis id itaque tempore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,114 @@
+id: 7758
+typeCode: ALG
+description: Content ALG 78 description
+mainGroup: free
+status: PUBLIC
+listModel: '7680'
+defaultModel: '7681'
+attributes:
+  - code: longtext09
+    value: null
+    values:
+      en: <p>Enim quia cupiditate error.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite04
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite04-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite04-boolean
+        value: null
+        values:
+          en: composite04 boolean field
+          it: composite04 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist02
+    value: null
+    values: {}
+    elements:
+      - code: monolist02
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: link07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Enim quia cupiditate error.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text08
+    value: null
+    values:
+      en: <p>Enim quia cupiditate error.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Enim quia cupiditate error.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

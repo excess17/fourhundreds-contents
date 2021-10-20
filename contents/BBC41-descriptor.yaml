@@ -1,0 +1,101 @@
+id: 9001
+typeCode: BBC
+description: Content BBC 41 description
+mainGroup: free
+status: PUBLIC
+listModel: '8960'
+defaultModel: '8961'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>A ea repellat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist06
+    value: null
+    values: {}
+    elements:
+      - code: monolist06
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist06
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>A ea repellat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext11
+    value: null
+    values:
+      en: <p>A ea repellat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>A ea repellat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>A ea repellat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

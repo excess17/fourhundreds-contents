@@ -1,0 +1,78 @@
+id: 9962
+typeCode: BCE
+description: Content BCE 42 description
+mainGroup: free
+status: PUBLIC
+listModel: '9920'
+defaultModel: '9921'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Enim quaerat quam commodi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Enim quaerat quam commodi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
+    value: null
+    values:
+      en: <p>Enim quaerat quam commodi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Enim quaerat quam commodi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

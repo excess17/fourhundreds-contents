@@ -1,0 +1,78 @@
+id: 1244
+typeCode: ABF
+description: Content ABF 44 description
+mainGroup: free
+status: PUBLIC
+listModel: '1200'
+defaultModel: '1201'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Rerum nostrum fugiat pariatur repudiandae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Rerum nostrum fugiat pariatur repudiandae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text03
+    value: null
+    values:
+      en: <p>Rerum nostrum fugiat pariatur repudiandae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Rerum nostrum fugiat pariatur repudiandae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

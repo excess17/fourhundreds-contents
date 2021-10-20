@@ -1,0 +1,72 @@
+id: 7510
+typeCode: ALD
+description: Content ALD 70 description
+mainGroup: free
+status: PUBLIC
+listModel: '7440'
+defaultModel: '7441'
+attributes:
+  - code: longtext07
+    value: null
+    values:
+      en: <p>Soluta consectetur assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Soluta consectetur assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>Soluta consectetur assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Soluta consectetur assumenda.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

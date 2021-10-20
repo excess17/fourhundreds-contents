@@ -1,0 +1,98 @@
+id: 6699
+typeCode: AID
+description: Content AID 59 description
+mainGroup: free
+status: PUBLIC
+listModel: '6640'
+defaultModel: '6641'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Ut voluptatum possimus sunt quos quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite06
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite06-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite06-boolean
+        value: null
+        values:
+          en: composite06 boolean field
+          it: composite06 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Ut voluptatum possimus sunt quos quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text09
+    value: null
+    values:
+      en: <p>Ut voluptatum possimus sunt quos quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Ut voluptatum possimus sunt quos quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,15 @@
+id: 7040
+contentType: AII
+description: AII - List
+contentShape: |-
+  <div class="AII-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>

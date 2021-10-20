@@ -1,0 +1,106 @@
+id: 8580
+typeCode: BAH
+description: Content BAH 20 description
+mainGroup: free
+status: PUBLIC
+listModel: '8560'
+defaultModel: '8561'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Nostrum exercitationem quo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Nostrum exercitationem quo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist00
+    value: null
+    values: {}
+    elements:
+      - code: monolist00
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist00
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Nostrum exercitationem quo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text06
+    value: null
+    values:
+      en: <p>Nostrum exercitationem quo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

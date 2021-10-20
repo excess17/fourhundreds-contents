@@ -1,0 +1,15 @@
+id: 5201
+contentType: AGF
+description: AGF - Default
+contentShape: |-
+  <div class="AGF-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

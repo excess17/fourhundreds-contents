@@ -1,0 +1,83 @@
+id: 3949
+typeCode: AEL
+description: Content AEL 29 description
+mainGroup: free
+status: PUBLIC
+listModel: '3920'
+defaultModel: '3921'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Dolores molestiae et eum doloremque sit rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Dolores molestiae et eum doloremque sit rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Dolores molestiae et eum doloremque sit rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

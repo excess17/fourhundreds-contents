@@ -1,0 +1,98 @@
+id: 7077
+typeCode: AII
+description: Content AII 37 description
+mainGroup: free
+status: PUBLIC
+listModel: '7040'
+defaultModel: '7041'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Voluptatem et ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite10
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite10-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite10-boolean
+        value: null
+        values:
+          en: composite10 boolean field
+          it: composite10 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Voluptatem et ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext01
+    value: null
+    values:
+      en: <p>Voluptatem et ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Voluptatem et ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,101 @@
+id: 4622
+typeCode: AFH
+description: Content AFH 62 description
+mainGroup: free
+status: PUBLIC
+listModel: '4560'
+defaultModel: '4561'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Fuga et nam consequatur qui rerum tempora reprehenderit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite06
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite06-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite06-boolean
+        value: null
+        values:
+          en: composite06 boolean field
+          it: composite06 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist08
+    value: null
+    values: {}
+    elements:
+      - code: monolist08
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist08
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: link10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Fuga et nam consequatur qui rerum tempora reprehenderit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Fuga et nam consequatur qui rerum tempora reprehenderit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

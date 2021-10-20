@@ -1,0 +1,90 @@
+id: 4793
+typeCode: AFL
+description: Content AFL 73 description
+mainGroup: free
+status: PUBLIC
+listModel: '4720'
+defaultModel: '4721'
+attributes:
+  - code: longtext03
+    value: null
+    values:
+      en: <p>Neque impedit quia molestiae reprehenderit autem harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext06
+    value: null
+    values:
+      en: <p>Neque impedit quia molestiae reprehenderit autem harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Neque impedit quia molestiae reprehenderit autem harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Neque impedit quia molestiae reprehenderit autem harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

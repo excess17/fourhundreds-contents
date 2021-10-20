@@ -1,0 +1,85 @@
+id: 9525
+typeCode: BBL
+description: Content BBL 5 description
+mainGroup: free
+status: PUBLIC
+listModel: '9520'
+defaultModel: '9521'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Minus fugiat omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Minus fugiat omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text02
+    value: null
+    values:
+      en: <p>Minus fugiat omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext08
+    value: null
+    values:
+      en: <p>Minus fugiat omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Minus fugiat omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

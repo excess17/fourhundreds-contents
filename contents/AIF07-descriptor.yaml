@@ -1,0 +1,91 @@
+id: 6807
+typeCode: AIF
+description: Content AIF 7 description
+mainGroup: free
+status: PUBLIC
+listModel: '6800'
+defaultModel: '6801'
+attributes:
+  - code: longtext01
+    value: null
+    values:
+      en: <p>Eos eveniet ex.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite00
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite00-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite00-boolean
+        value: null
+        values:
+          en: composite00 boolean field
+          it: composite00 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Eos eveniet ex.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Eos eveniet ex.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,84 @@
+id: 708
+typeCode: AAI
+description: Content AAI 68 description
+mainGroup: free
+status: PUBLIC
+listModel: '640'
+defaultModel: '641'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Quisquam enim quia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Quisquam enim quia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext08
+    value: null
+    values:
+      en: <p>Quisquam enim quia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Quisquam enim quia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

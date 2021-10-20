@@ -1,0 +1,15 @@
+id: 6481
+contentType: AIB
+description: AIB - Default
+contentShape: |-
+  <div class="AIB-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

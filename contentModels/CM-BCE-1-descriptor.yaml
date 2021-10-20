@@ -1,0 +1,15 @@
+id: 9921
+contentType: BCE
+description: BCE - Default
+contentShape: |-
+  <div class="BCE-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

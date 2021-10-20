@@ -1,0 +1,15 @@
+id: 9362
+contentType: BBH
+description: BBH - Details
+contentShape: |-
+  <div class="BBH-container details">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

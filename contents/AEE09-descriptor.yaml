@@ -1,0 +1,85 @@
+id: 3529
+typeCode: AEE
+description: Content AEE 9 description
+mainGroup: free
+status: PUBLIC
+listModel: '3520'
+defaultModel: '3521'
+attributes:
+  - code: longtext03
+    value: null
+    values:
+      en: <p>Qui sed ratione sed non ipsa.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite07
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite07-boolean
+        value: null
+        values:
+          en: composite07 boolean field
+          it: composite07 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Qui sed ratione sed non ipsa.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Qui sed ratione sed non ipsa.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

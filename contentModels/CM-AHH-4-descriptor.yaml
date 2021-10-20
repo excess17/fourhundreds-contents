@@ -1,0 +1,15 @@
+id: 6164
+contentType: AHH
+description: AHH - Text 2
+contentShape: |-
+  <div class="AHH-container text2">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

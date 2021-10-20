@@ -1,0 +1,15 @@
+id: 8000
+contentType: BAA
+description: BAA - List
+contentShape: |-
+  <div class="BAA-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>

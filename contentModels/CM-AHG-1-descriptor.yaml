@@ -1,0 +1,15 @@
+id: 6081
+contentType: AHG
+description: AHG - Default
+contentShape: |-
+  <div class="AHG-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

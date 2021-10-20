@@ -1,0 +1,79 @@
+id: 945
+typeCode: ABB
+description: Content ABB 65 description
+mainGroup: free
+status: PUBLIC
+listModel: '880'
+defaultModel: '881'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Eaque vitae ut assumenda est reiciendis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Eaque vitae ut assumenda est reiciendis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext07
+    value: null
+    values:
+      en: <p>Eaque vitae ut assumenda est reiciendis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text04
+    value: null
+    values:
+      en: <p>Eaque vitae ut assumenda est reiciendis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Eaque vitae ut assumenda est reiciendis harum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

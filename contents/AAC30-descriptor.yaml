@@ -1,0 +1,78 @@
+id: 190
+typeCode: AAC
+description: Content AAC 30 description
+mainGroup: free
+status: PUBLIC
+listModel: '160'
+defaultModel: '161'
+attributes:
+  - code: longtext00
+    value: null
+    values:
+      en: <p>Maiores quibusdam neque vel dolores atque sed saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Maiores quibusdam neque vel dolores atque sed saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext10
+    value: null
+    values:
+      en: <p>Maiores quibusdam neque vel dolores atque sed saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Maiores quibusdam neque vel dolores atque sed saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

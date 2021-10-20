@@ -1,0 +1,15 @@
+id: 3280
+contentType: AEB
+description: AEB - List
+contentShape: |-
+  <div class="AEB-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>

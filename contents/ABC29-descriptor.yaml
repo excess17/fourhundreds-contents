@@ -1,0 +1,71 @@
+id: 989
+typeCode: ABC
+description: Content ABC 29 description
+mainGroup: free
+status: PUBLIC
+listModel: '960'
+defaultModel: '961'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Inventore quaerat beatae esse error.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Inventore quaerat beatae esse error.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Inventore quaerat beatae esse error.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,92 @@
+id: 6564
+typeCode: AIC
+description: Content AIC 4 description
+mainGroup: free
+status: PUBLIC
+listModel: '6560'
+defaultModel: '6561'
+attributes:
+  - code: longtext01
+    value: null
+    values:
+      en: <p>Eveniet est cupiditate ut ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite07
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite07-boolean
+        value: null
+        values:
+          en: composite07 boolean field
+          it: composite07 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Eveniet est cupiditate ut ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text11
+    value: null
+    values:
+      en: <p>Eveniet est cupiditate ut ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Eveniet est cupiditate ut ut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,105 @@
+id: 9791
+typeCode: BCC
+description: Content BCC 31 description
+mainGroup: free
+status: PUBLIC
+listModel: '9760'
+defaultModel: '9761'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Quia earum a ab voluptatem quo aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext00
+    value: null
+    values:
+      en: <p>Quia earum a ab voluptatem quo aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Quia earum a ab voluptatem quo aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite07
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite07-boolean
+        value: null
+        values:
+          en: composite07 boolean field
+          it: composite07 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Quia earum a ab voluptatem quo aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text05
+    value: null
+    values:
+      en: <p>Quia earum a ab voluptatem quo aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

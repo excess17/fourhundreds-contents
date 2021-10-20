@@ -1,0 +1,15 @@
+id: 4001
+contentType: AFA
+description: AFA - Default
+contentShape: |-
+  <div class="AFA-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

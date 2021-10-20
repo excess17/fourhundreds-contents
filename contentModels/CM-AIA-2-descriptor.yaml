@@ -1,0 +1,15 @@
+id: 6402
+contentType: AIA
+description: AIA - Details
+contentShape: |-
+  <div class="AIA-container details">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

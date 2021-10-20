@@ -1,0 +1,98 @@
+id: 3831
+typeCode: AEH
+description: Content AEH 71 description
+mainGroup: free
+status: PUBLIC
+listModel: '3760'
+defaultModel: '3761'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Voluptatem est minus mollitia doloribus et maxime nihil.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite06
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite06-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite06-boolean
+        value: null
+        values:
+          en: composite06 boolean field
+          it: composite06 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Voluptatem est minus mollitia doloribus et maxime nihil.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text08
+    value: null
+    values:
+      en: <p>Voluptatem est minus mollitia doloribus et maxime nihil.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Voluptatem est minus mollitia doloribus et maxime nihil.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

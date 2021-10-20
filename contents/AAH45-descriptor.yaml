@@ -1,0 +1,95 @@
+id: 605
+typeCode: AAH
+description: Content AAH 45 description
+mainGroup: free
+status: PUBLIC
+listModel: '560'
+defaultModel: '561'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Rerum quia id labore voluptas.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist06
+    value: null
+    values: {}
+    elements:
+      - code: monolist06
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist06
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: link04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Rerum quia id labore voluptas.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
+    value: null
+    values:
+      en: <p>Rerum quia id labore voluptas.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>Rerum quia id labore voluptas.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Rerum quia id labore voluptas.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

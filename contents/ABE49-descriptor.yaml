@@ -1,0 +1,99 @@
+id: 1169
+typeCode: ABE
+description: Content ABE 49 description
+mainGroup: free
+status: PUBLIC
+listModel: '1120'
+defaultModel: '1121'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Voluptates vel nulla.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist11
+    value: null
+    values: {}
+    elements:
+      - code: monolist11
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist11
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Voluptates vel nulla.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Voluptates vel nulla.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

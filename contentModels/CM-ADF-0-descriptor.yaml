@@ -1,0 +1,15 @@
+id: 2800
+contentType: ADF
+description: ADF - List
+contentShape: |-
+  <div class="ADF-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>
