@@ -1,5 +1,5 @@
-code: test-fivecontents-bundle-2
-description: test-fivecontents-bundle-2 bundle
+code: test-fivecontents-bundle
+description: test-fivecontents-bundle bundle
 bundle-type: system-level-bundle
 components:
   fragments: []

@@ -6,52 +6,32 @@ status: PUBLIC
 listModel: '20'
 defaultModel: '21'
 attributes:
-  - code: longtext01
+  - code: body
     value: null
     values:
-      en: <p>Quia qui quae inventore ipsam libero nihil fugit.</p>
+      en: <p>Doloribus quasi sed et dolores aliquam aut.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number10
+  - code: date07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image08
+  - code: three-state06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state07
+  - code: link09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite11
-    value: null
-    values: {}
-    elements: []
-    compositeelements:
-      - code: composite11-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite11-boolean
-        value: null
-        values:
-          en: composite11 boolean field
-          it: composite11 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
-    listelements: {}
-  - code: link00
+  - code: checkbox04
     value: null
     values: {}
     elements: []
@@ -60,27 +40,34 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Quia qui quae inventore ipsam libero nihil fugit.</p>
+      en: <p>Doloribus quasi sed et dolores aliquam aut.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text09
+  - code: monotext08
     value: null
     values:
-      en: <p>Quia qui quae inventore ipsam libero nihil fugit.</p>
+      en: <p>Doloribus quasi sed et dolores aliquam aut.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator06
+  - code: text11
     value: null
-    values: {}
+    values:
+      en: <p>Doloribus quasi sed et dolores aliquam aut.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Quia qui quae inventore ipsam libero nihil fugit.</p>
+      en: <p>Doloribus quasi sed et dolores aliquam aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
