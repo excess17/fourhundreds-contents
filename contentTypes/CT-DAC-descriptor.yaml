@@ -105,11 +105,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: timestamp00
-    type: Timestamp
+  - code: link00
+    type: Link
     names:
-      en: timestamp it
-      it: timestamp en
+      en: link it
+      it: link en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -138,7 +138,40 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: number01
+  - code: longtext01
+    type: Longtext
+    names:
+      en: longtext it
+      it: longtext en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: number02
     type: Number
     names:
       en: number it
@@ -171,11 +204,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: link02
-    type: Link
+  - code: number03
+    type: Number
     names:
-      en: link it
-      it: link en
+      en: number it
+      it: number en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -204,11 +237,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: link03
-    type: Link
+  - code: composite04
+    type: Composite
     names:
-      en: link it
-      it: link en
+      en: composite04 en
+      it: composite04 it
     roles: []
     disablingCodes: []
     mandatory: false
@@ -237,11 +270,90 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: date04
-    type: Date
+    compositeAttributes:
+      - code: composite04text
+        type: Text
+        name: composite04text
+        names:
+          en: composite04text composite text en
+          it: composite04text composite text it
+        roles: [ ]
+        disablingCodes: [ ]
+        mandatory: false
+        listFilter: false
+        indexable: false
+        enumeratorStaticItems: null
+        enumeratorStaticItemsSeparator: null
+        enumeratorExtractorBean: null
+        validationRules:
+          minLength: null
+          maxLength: null
+          regex: null
+          rangeStartString: null
+          rangeEndString: null
+          rangeStartStringAttribute: null
+          rangeEndStringAttribute: null
+          equalString: null
+          equalStringAttribute: null
+          rangeStartDate: null
+          rangeEndDate: null
+          rangeStartDateAttribute: null
+          rangeEndDateAttribute: null
+          equalDate: null
+          equalDateAttribute: null
+          rangeStartNumber: null
+          rangeStartNumberAttribute: null
+          rangeEndNumber: null
+          rangeEndNumberAttribute: null
+          equalNumber: null
+          equalNumberAttribute: null
+          ognlValidation: null
+        nestedAttribute: null
+        compositeAttributes: null
+      - code: composite04boolean
+        type: Boolean
+        name: composite04boolean
+        names:
+          en: composite04boolean composite boolean en
+          it: composite04boolean composite boolean it
+        roles: [ ]
+        disablingCodes: [ ]
+        mandatory: false
+        listFilter: false
+        indexable: false
+        enumeratorStaticItems: null
+        enumeratorStaticItemsSeparator: null
+        enumeratorExtractorBean: null
+        validationRules:
+          minLength: null
+          maxLength: null
+          regex: null
+          rangeStartString: null
+          rangeEndString: null
+          rangeStartStringAttribute: null
+          rangeEndStringAttribute: null
+          equalString: null
+          equalStringAttribute: null
+          rangeStartDate: null
+          rangeEndDate: null
+          rangeStartDateAttribute: null
+          rangeEndDateAttribute: null
+          equalDate: null
+          equalDateAttribute: null
+          rangeStartNumber: null
+          rangeStartNumberAttribute: null
+          rangeEndNumber: null
+          rangeEndNumberAttribute: null
+          equalNumber: null
+          equalNumberAttribute: null
+          ognlValidation: null
+        nestedAttribute: null
+        compositeAttributes: null
+  - code: text05
+    type: Text
     names:
-      en: date it
-      it: date en
+      en: text it
+      it: text en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -270,49 +382,18 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: timestamp05
-    type: Timestamp
+  - code: enumerator06
+    type: Enumerator
     names:
-      en: timestamp it
-      it: timestamp en
+      en: enumerator it
+      it: enumerator en
     roles: []
     disablingCodes: []
     mandatory: false
     listFilter: false
     indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: attach06
-    type: Attach
-    names:
-      en: attach it
-      it: attach en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
+    enumeratorStaticItems: label1,label2,label3
+    enumeratorStaticItemsSeparator: ,
     validationRules:
       minLength: null
       maxLength: null
@@ -369,11 +450,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: bool08
-    type: Boolean
+  - code: image08
+    type: Image
     names:
-      en: bool it
-      it: bool en
+      en: image it
+      it: image en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -435,11 +516,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: attach10
-    type: Attach
+  - code: number10
+    type: Number
     names:
-      en: attach it
-      it: attach en
+      en: number it
+      it: number en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -468,11 +549,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: monolist11
-    type: Monolist
+  - code: composite11
+    type: Composite
     names:
-      en: monolist11 en
-      it: monolist11 it
+      en: composite11 en
+      it: composite11 it
     roles: []
     disablingCodes: []
     mandatory: false
@@ -501,42 +582,82 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-    nestedAttribute:
-      code: monolist11-nested
-      type: Text
-      name: monolist11-nested
-      names:
-        en: monolist11-nested en
-      roles: []
-      disablingCodes: []
-      mandatory: false
-      listFilter: false
-      indexable: false
-      enumeratorStaticItems: null
-      enumeratorStaticItemsSeparator: null
-      enumeratorExtractorBean: null
-      validationRules:
-        minLength: null
-        maxLength: null
-        regex: null
-        rangeStartString: null
-        rangeEndString: null
-        rangeStartStringAttribute: null
-        rangeEndStringAttribute: null
-        equalString: null
-        equalStringAttribute: null
-        rangeStartDate: null
-        rangeEndDate: null
-        rangeStartDateAttribute: null
-        rangeEndDateAttribute: null
-        equalDate: null
-        equalDateAttribute: null
-        rangeStartNumber: null
-        rangeStartNumberAttribute: null
-        rangeEndNumber: null
-        rangeEndNumberAttribute: null
-        equalNumber: null
-        equalNumberAttribute: null
-        ognlValidation: null
-      nestedAttribute: null
-      compositeAttributes: null
+    compositeAttributes:
+      - code: composite11text
+        type: Text
+        name: composite11text
+        names:
+          en: composite11text composite text en
+          it: composite11text composite text it
+        roles: [ ]
+        disablingCodes: [ ]
+        mandatory: false
+        listFilter: false
+        indexable: false
+        enumeratorStaticItems: null
+        enumeratorStaticItemsSeparator: null
+        enumeratorExtractorBean: null
+        validationRules:
+          minLength: null
+          maxLength: null
+          regex: null
+          rangeStartString: null
+          rangeEndString: null
+          rangeStartStringAttribute: null
+          rangeEndStringAttribute: null
+          equalString: null
+          equalStringAttribute: null
+          rangeStartDate: null
+          rangeEndDate: null
+          rangeStartDateAttribute: null
+          rangeEndDateAttribute: null
+          equalDate: null
+          equalDateAttribute: null
+          rangeStartNumber: null
+          rangeStartNumberAttribute: null
+          rangeEndNumber: null
+          rangeEndNumberAttribute: null
+          equalNumber: null
+          equalNumberAttribute: null
+          ognlValidation: null
+        nestedAttribute: null
+        compositeAttributes: null
+      - code: composite11boolean
+        type: Boolean
+        name: composite11boolean
+        names:
+          en: composite11boolean composite boolean en
+          it: composite11boolean composite boolean it
+        roles: [ ]
+        disablingCodes: [ ]
+        mandatory: false
+        listFilter: false
+        indexable: false
+        enumeratorStaticItems: null
+        enumeratorStaticItemsSeparator: null
+        enumeratorExtractorBean: null
+        validationRules:
+          minLength: null
+          maxLength: null
+          regex: null
+          rangeStartString: null
+          rangeEndString: null
+          rangeStartStringAttribute: null
+          rangeEndStringAttribute: null
+          equalString: null
+          equalStringAttribute: null
+          rangeStartDate: null
+          rangeEndDate: null
+          rangeStartDateAttribute: null
+          rangeEndDateAttribute: null
+          equalDate: null
+          equalDateAttribute: null
+          rangeStartNumber: null
+          rangeStartNumberAttribute: null
+          rangeEndNumber: null
+          rangeEndNumberAttribute: null
+          equalNumber: null
+          equalNumberAttribute: null
+          ognlValidation: null
+        nestedAttribute: null
+        compositeAttributes: null

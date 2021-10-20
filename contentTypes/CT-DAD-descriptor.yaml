@@ -105,11 +105,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: date00
-    type: Date
+  - code: checkbox00
+    type: CheckBox
     names:
-      en: date it
-      it: date en
+      en: checkbox it
+      it: checkbox en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -138,11 +138,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: date01
-    type: Date
+  - code: bool01
+    type: Boolean
     names:
-      en: date it
-      it: date en
+      en: bool it
+      it: bool en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -171,11 +171,77 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: monolist02
+  - code: longtext02
+    type: Longtext
+    names:
+      en: longtext it
+      it: longtext en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: link03
+    type: Link
+    names:
+      en: link it
+      it: link en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: monolist04
     type: Monolist
     names:
-      en: monolist02 en
-      it: monolist02 it
+      en: monolist04 en
+      it: monolist04 it
     roles: []
     disablingCodes: []
     mandatory: false
@@ -205,11 +271,12 @@ attributes:
       equalNumberAttribute: null
       ognlValidation: null
     nestedAttribute:
-      code: monolist02-nested
+      code: monolist04
       type: Text
-      name: monolist02-nested
+      name: monolist04
       names:
-        en: monolist02-nested en
+        en: monolist04 en
+        it: monolist04 it
       roles: []
       disablingCodes: []
       mandatory: false
@@ -243,11 +310,11 @@ attributes:
         ognlValidation: null
       nestedAttribute: null
       compositeAttributes: null
-  - code: date03
-    type: Date
+  - code: monolist05
+    type: Monolist
     names:
-      en: date it
-      it: date en
+      en: monolist05 en
+      it: monolist05 it
     roles: []
     disablingCodes: []
     mandatory: false
@@ -276,40 +343,47 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: bool04
-    type: Boolean
-    names:
-      en: bool it
-      it: bool en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: enumerator05
+    nestedAttribute:
+      code: monolist05
+      type: Text
+      name: monolist05
+      names:
+        en: monolist05 en
+        it: monolist05 it
+      roles: []
+      disablingCodes: []
+      mandatory: false
+      listFilter: false
+      indexable: false
+      enumeratorStaticItems: null
+      enumeratorStaticItemsSeparator: null
+      enumeratorExtractorBean: null
+      validationRules:
+        minLength: null
+        maxLength: null
+        regex: null
+        rangeStartString: null
+        rangeEndString: null
+        rangeStartStringAttribute: null
+        rangeEndStringAttribute: null
+        equalString: null
+        equalStringAttribute: null
+        rangeStartDate: null
+        rangeEndDate: null
+        rangeStartDateAttribute: null
+        rangeEndDateAttribute: null
+        equalDate: null
+        equalDateAttribute: null
+        rangeStartNumber: null
+        rangeStartNumberAttribute: null
+        rangeEndNumber: null
+        rangeEndNumberAttribute: null
+        equalNumber: null
+        equalNumberAttribute: null
+        ognlValidation: null
+      nestedAttribute: null
+      compositeAttributes: null
+  - code: enumerator06
     type: Enumerator
     names:
       en: enumerator it
@@ -344,11 +418,11 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: monolist06
-    type: Monolist
+  - code: three-state07
+    type: ThreeState
     names:
-      en: monolist06 en
-      it: monolist06 it
+      en: three-state it
+      it: three-state en
     roles: []
     disablingCodes: []
     mandatory: false
@@ -377,46 +451,75 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-    nestedAttribute:
-      code: monolist06-nested
-      type: Text
-      name: monolist06-nested
-      names:
-        en: monolist06-nested en
-      roles: []
-      disablingCodes: []
-      mandatory: false
-      listFilter: false
-      indexable: false
-      enumeratorStaticItems: null
-      enumeratorStaticItemsSeparator: null
-      enumeratorExtractorBean: null
-      validationRules:
-        minLength: null
-        maxLength: null
-        regex: null
-        rangeStartString: null
-        rangeEndString: null
-        rangeStartStringAttribute: null
-        rangeEndStringAttribute: null
-        equalString: null
-        equalStringAttribute: null
-        rangeStartDate: null
-        rangeEndDate: null
-        rangeStartDateAttribute: null
-        rangeEndDateAttribute: null
-        equalDate: null
-        equalDateAttribute: null
-        rangeStartNumber: null
-        rangeStartNumberAttribute: null
-        rangeEndNumber: null
-        rangeEndNumberAttribute: null
-        equalNumber: null
-        equalNumberAttribute: null
-        ognlValidation: null
-      nestedAttribute: null
-      compositeAttributes: null
-  - code: email07
+  - code: enumerator08
+    type: Enumerator
+    names:
+      en: enumerator it
+      it: enumerator en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    enumeratorStaticItems: label1,label2,label3
+    enumeratorStaticItemsSeparator: ,
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: text09
+    type: Text
+    names:
+      en: text it
+      it: text en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: email10
     type: Email
     names:
       en: email it
@@ -449,82 +552,18 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: email08
-    type: Email
+  - code: enumerator11
+    type: Enumerator
     names:
-      en: email it
-      it: email en
+      en: enumerator it
+      it: enumerator en
     roles: []
     disablingCodes: []
     mandatory: false
     listFilter: false
     indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: '(?:[a-z0-9!#$%&''*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&''*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9]))\.){3}(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9])|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])'
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: email09
-    type: Email
-    names:
-      en: email it
-      it: email en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: '(?:[a-z0-9!#$%&''*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&''*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9]))\.){3}(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9])|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])'
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: monolist10
-    type: Monolist
-    names:
-      en: monolist10 en
-      it: monolist10 it
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
+    enumeratorStaticItems: label1,label2,label3
+    enumeratorStaticItemsSeparator: ,
     validationRules:
       minLength: null
       maxLength: null
@@ -548,114 +587,3 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-    nestedAttribute:
-      code: monolist10-nested
-      type: Text
-      name: monolist10-nested
-      names:
-        en: monolist10-nested en
-      roles: []
-      disablingCodes: []
-      mandatory: false
-      listFilter: false
-      indexable: false
-      enumeratorStaticItems: null
-      enumeratorStaticItemsSeparator: null
-      enumeratorExtractorBean: null
-      validationRules:
-        minLength: null
-        maxLength: null
-        regex: null
-        rangeStartString: null
-        rangeEndString: null
-        rangeStartStringAttribute: null
-        rangeEndStringAttribute: null
-        equalString: null
-        equalStringAttribute: null
-        rangeStartDate: null
-        rangeEndDate: null
-        rangeStartDateAttribute: null
-        rangeEndDateAttribute: null
-        equalDate: null
-        equalDateAttribute: null
-        rangeStartNumber: null
-        rangeStartNumberAttribute: null
-        rangeEndNumber: null
-        rangeEndNumberAttribute: null
-        equalNumber: null
-        equalNumberAttribute: null
-        ognlValidation: null
-      nestedAttribute: null
-      compositeAttributes: null
-  - code: monolist11
-    type: Monolist
-    names:
-      en: monolist11 en
-      it: monolist11 it
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-    nestedAttribute:
-      code: monolist11-nested
-      type: Text
-      name: monolist11-nested
-      names:
-        en: monolist11-nested en
-      roles: []
-      disablingCodes: []
-      mandatory: false
-      listFilter: false
-      indexable: false
-      enumeratorStaticItems: null
-      enumeratorStaticItemsSeparator: null
-      enumeratorExtractorBean: null
-      validationRules:
-        minLength: null
-        maxLength: null
-        regex: null
-        rangeStartString: null
-        rangeEndString: null
-        rangeStartStringAttribute: null
-        rangeEndStringAttribute: null
-        equalString: null
-        equalStringAttribute: null
-        rangeStartDate: null
-        rangeEndDate: null
-        rangeStartDateAttribute: null
-        rangeEndDateAttribute: null
-        equalDate: null
-        equalDateAttribute: null
-        rangeStartNumber: null
-        rangeStartNumberAttribute: null
-        rangeEndNumber: null
-        rangeEndNumberAttribute: null
-        equalNumber: null
-        equalNumberAttribute: null
-        ognlValidation: null
-      nestedAttribute: null
-      compositeAttributes: null

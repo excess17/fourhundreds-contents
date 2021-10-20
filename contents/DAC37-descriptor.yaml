@@ -6,20 +6,20 @@ status: PUBLIC
 listModel: '20'
 defaultModel: '21'
 attributes:
-  - code: body
+  - code: longtext01
     value: null
     values:
-      en: <p>Consequatur dolorem eum est.</p>
+      en: <p>Consequuntur mollitia et mollitia.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date04
+  - code: number10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number01
+  - code: image08
     value: null
     values: {}
     elements: []
@@ -31,35 +31,27 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool08
+  - code: composite11
     value: null
     values: {}
     elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist11
-    value: null
-    values: {}
-    elements:
-      - code: monolist11
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
+    compositeelements:
+      - code: composite11-text
+        value: true
+        values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist11
+      - code: composite11-boolean
         value: null
         values:
-          en: list2 field
-          it: list2 field
+          en: composite11 boolean field
+          it: composite11 boolean field
         elements: []
         compositeelements: []
         listelements: {}
-    compositeelements: []
     listelements: {}
-  - code: link03
+  - code: link00
     value: null
     values: {}
     elements: []
@@ -68,33 +60,27 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Consequatur dolorem eum est.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach10
-    value: null
-    values: {}
+      en: <p>Consequuntur mollitia et mollitia.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: text09
     value: null
     values:
-      en: <p>Consequatur dolorem eum est.</p>
+      en: <p>Consequuntur mollitia et mollitia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Consequatur dolorem eum est.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp05
-    value: null
-    values: {}
+      en: <p>Consequuntur mollitia et mollitia.</p>
     elements: []
     compositeelements: []
     listelements: {}
