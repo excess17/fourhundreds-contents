@@ -6,14 +6,20 @@ status: PUBLIC
 listModel: '80'
 defaultModel: '81'
 attributes:
-  - code: body
+  - code: longtext06
     value: null
     values:
-      en: <p>Deleniti temporibus odit consectetur autem.</p>
+      en: <p>Neque distinctio soluta omnis ex distinctio perferendis eum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image00
+  - code: date00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state08
     value: null
     values: {}
     elements: []
@@ -25,40 +31,56 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite11
+  - code: monolist03
+    value: null
+    values: {}
+    elements:
+      - code: monolist03
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist03
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite05
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite11-text
+      - code: composite05-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite11-boolean
+      - code: composite05-boolean
         value: null
         values:
-          en: composite11 boolean field
-          it: composite11 boolean field
+          en: composite05 boolean field
+          it: composite05 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: checkbox10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Deleniti temporibus odit consectetur autem.</p>
+      en: <p>Neque distinctio soluta omnis ex distinctio perferendis eum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator07
+  - code: attach11
     value: null
     values: {}
     elements: []
@@ -67,17 +89,11 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Deleniti temporibus odit consectetur autem.</p>
+      en: <p>Neque distinctio soluta omnis ex distinctio perferendis eum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp02
+  - code: email04
     value: null
     values: {}
     elements: []

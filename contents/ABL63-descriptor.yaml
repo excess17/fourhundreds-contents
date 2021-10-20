@@ -6,107 +6,86 @@ status: PUBLIC
 listModel: '1520'
 defaultModel: '1521'
 attributes:
-  - code: longtext08
+  - code: body
     value: null
     values:
-      en: <p>Laboriosam enim quia est cum excepturi perspiciatis.</p>
+      en: <p>Voluptatem aliquid consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image07
+  - code: date06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext02
+  - code: number02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist04
+  - code: image08
     value: null
     values: {}
-    elements:
-      - code: monolist04
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: monolist04
-        value: null
-        values:
-          en: list2 field
-          it: list2 field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    elements: []
     compositeelements: []
     listelements: {}
-  - code: composite05
+  - code: composite09
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite05-text
+      - code: composite09-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite05-boolean
+      - code: composite09-boolean
         value: null
         values:
-          en: composite05 boolean field
-          it: composite05 boolean field
+          en: composite09 boolean field
+          it: composite09 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: checkbox03
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Laboriosam enim quia est cum excepturi perspiciatis.</p>
+      en: <p>Voluptatem aliquid consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach06
+  - code: attach03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text09
+  - code: monotext05
     value: null
     values:
-      en: <p>Laboriosam enim quia est cum excepturi perspiciatis.</p>
+      en: <p>Voluptatem aliquid consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text11
+    value: null
+    values:
+      en: <p>Voluptatem aliquid consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Laboriosam enim quia est cum excepturi perspiciatis.</p>
+      en: <p>Voluptatem aliquid consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email11
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap10
+  - code: timestamp07
     value: null
     values: {}
     elements: []

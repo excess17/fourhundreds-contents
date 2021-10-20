@@ -6,14 +6,14 @@ status: PUBLIC
 listModel: '320'
 defaultModel: '321'
 attributes:
-  - code: body
+  - code: longtext04
     value: null
     values:
-      en: <p>Soluta minima ratione quis quas occaecati.</p>
+      en: <p>Voluptatem est velit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number09
+  - code: number10
     value: null
     values: {}
     elements: []
@@ -25,25 +25,7 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state00
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: bool07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: checkbox06
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: link10
+  - code: checkbox09
     value: null
     values: {}
     elements: []
@@ -52,18 +34,17 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Soluta minima ratione quis quas occaecati.</p>
+      en: <p>Voluptatem est velit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text02
+  - code: attach08
     value: null
-    values:
-      en: <p>Soluta minima ratione quis quas occaecati.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach05
+  - code: enumerator06
     value: null
     values: {}
     elements: []
@@ -72,11 +53,23 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Soluta minima ratione quis quas occaecati.</p>
+      en: <p>Voluptatem est velit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap11
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp11
     value: null
     values: {}
     elements: []

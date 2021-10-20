@@ -6,80 +6,85 @@ status: PUBLIC
 listModel: '1760'
 defaultModel: '1761'
 attributes:
-  - code: longtext01
+  - code: body
     value: null
     values:
-      en: <p>Molestias libero praesentium.</p>
+      en: <p>A quaerat sed.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number09
+  - code: date04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext08
+  - code: bool10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state07
+  - code: link00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool03
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: composite10
-    value: null
-    values: {}
-    elements: []
-    compositeelements:
-      - code: composite10-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite10-boolean
-        value: null
-        values:
-          en: composite10 boolean field
-          it: composite10 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
-    listelements: {}
-  - code: title
+  - code: monotext05
     value: null
     values:
-      en: <p>Molestias libero praesentium.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach04
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator11
-    value: null
-    values: {}
+      en: <p>A quaerat sed.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Molestias libero praesentium.</p>
+      en: <p>A quaerat sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>A quaerat sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email08
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

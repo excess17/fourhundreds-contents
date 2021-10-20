@@ -9,56 +9,81 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Aut consequatur hic aut consequuntur sed.</p>
+      en: <p>Assumenda adipisci reprehenderit nihil reiciendis officiis ullam hic.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date10
+  - code: number07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext09
+  - code: hypertext01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state11
+  - code: three-state04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link08
+  - code: bool09
     value: null
     values: {}
     elements: []
     compositeelements: []
+    listelements: {}
+  - code: composite06
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite06-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite06-boolean
+        value: null
+        values:
+          en: composite06 boolean field
+          it: composite06 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Aut consequatur hic aut consequuntur sed.</p>
+      en: <p>Assumenda adipisci reprehenderit nihil reiciendis officiis ullam hic.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext05
+  - code: enumerator03
     value: null
-    values:
-      en: <p>Aut consequatur hic aut consequuntur sed.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Aut consequatur hic aut consequuntur sed.</p>
+      en: <p>Assumenda adipisci reprehenderit nihil reiciendis officiis ullam hic.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email06
+  - code: enumeratormap05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp11
     value: null
     values: {}
     elements: []

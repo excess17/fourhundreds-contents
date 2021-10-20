@@ -6,79 +6,46 @@ status: PUBLIC
 listModel: '1840'
 defaultModel: '1841'
 attributes:
-  - code: longtext09
+  - code: longtext07
     value: null
     values:
-      en: <p>Qui magnam suscipit quia.</p>
+      en: <p>Libero eum eos aut dolorem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image08
+  - code: image11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link10
+  - code: number09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: description
-    value: null
-    values:
-      en: <p>Qui magnam suscipit quia.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap06
+  - code: composite06
     value: null
     values: {}
     elements: []
-    compositeelements: []
-    listelements: {}
-  - code: number11
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: hypertext01
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: three-state00
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist07
-    value: null
-    values: {}
-    elements:
-      - code: monolist07
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
+    compositeelements:
+      - code: composite06-text
+        value: true
+        values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist07
+      - code: composite06-boolean
         value: null
         values:
-          en: list2 field
-          it: list2 field
+          en: composite06 boolean field
+          it: composite06 boolean field
         elements: []
         compositeelements: []
         listelements: {}
-    compositeelements: []
     listelements: {}
-  - code: checkbox03
+  - code: checkbox04
     value: null
     values: {}
     elements: []
@@ -87,17 +54,37 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Qui magnam suscipit quia.</p>
+      en: <p>Libero eum eos aut dolorem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach04
+  - code: enumerator01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email05
+  - code: text03
+    value: null
+    values:
+      en: <p>Libero eum eos aut dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Libero eum eos aut dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap00
     value: null
     values: {}
     elements: []

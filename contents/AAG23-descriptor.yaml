@@ -6,14 +6,20 @@ status: PUBLIC
 listModel: '480'
 defaultModel: '481'
 attributes:
-  - code: body
+  - code: longtext11
     value: null
     values:
-      en: <p>Porro nihil maiores natus et voluptatem deserunt.</p>
+      en: <p>Eum illo ducimus ut quia ab et.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link03
+  - code: date07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image04
     value: null
     values: {}
     elements: []
@@ -22,23 +28,17 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Porro nihil maiores natus et voluptatem deserunt.</p>
+      en: <p>Eum illo ducimus ut quia ab et.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap05
+  - code: number06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: hypertext06
+  - code: hypertext05
     value: null
     values: {}
     elements: []
@@ -50,39 +50,68 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: checkbox11
+  - code: composite02
     value: null
     values: {}
     elements: []
+    compositeelements:
+      - code: composite02-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite02-boolean
+        value: null
+        values:
+          en: composite02 boolean field
+          it: composite02 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist10
+    value: null
+    values: {}
+    elements:
+      - code: monolist10
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist10
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
     compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Porro nihil maiores natus et voluptatem deserunt.</p>
+      en: <p>Eum illo ducimus ut quia ab et.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator01
+  - code: enumerator00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text10
-    value: null
-    values:
-      en: <p>Porro nihil maiores natus et voluptatem deserunt.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: email04
+  - code: attach03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp02
+  - code: timestamp09
     value: null
     values: {}
     elements: []

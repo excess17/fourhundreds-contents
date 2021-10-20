@@ -9,27 +9,15 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Molestiae maiores consectetur repellendus.</p>
+      en: <p>Qui cum suscipit similique qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: three-state06
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist05
+  - code: monolist03
     value: null
     values: {}
     elements:
-      - code: monolist05
+      - code: monolist03
         value: null
         values:
           en: list1 field
@@ -37,7 +25,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist05
+      - code: monolist03
         value: null
         values:
           en: list2 field
@@ -47,13 +35,27 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox00
+  - code: composite05
     value: null
     values: {}
     elements: []
-    compositeelements: []
+    compositeelements:
+      - code: composite05-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite05-boolean
+        value: null
+        values:
+          en: composite05 boolean field
+          it: composite05 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
-  - code: link03
+  - code: link07
     value: null
     values: {}
     elements: []
@@ -62,28 +64,26 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Molestiae maiores consectetur repellendus.</p>
+      en: <p>Qui cum suscipit similique qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext04
+  - code: enumerator02
     value: null
-    values:
-      en: <p>Molestiae maiores consectetur repellendus.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text11
+  - code: attach10
     value: null
-    values:
-      en: <p>Molestiae maiores consectetur repellendus.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Molestiae maiores consectetur repellendus.</p>
+      en: <p>Qui cum suscipit similique qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
@@ -93,7 +93,13 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap08
+  - code: timestamp01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
     value: null
     values: {}
     elements: []

@@ -6,97 +6,59 @@ status: PUBLIC
 listModel: '400'
 defaultModel: '401'
 attributes:
-  - code: body
+  - code: longtext08
     value: null
     values:
-      en: <p>Autem voluptatum error animi deserunt doloremque omnis sint.</p>
+      en: <p>Beatae consectetur voluptas.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date08
+  - code: date04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image04
+  - code: hypertext03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool00
+  - code: bool10
     value: null
     values: {}
     elements: []
     compositeelements: []
-    listelements: {}
-  - code: description
-    value: null
-    values:
-      en: <p>Autem voluptatum error animi deserunt doloremque omnis sint.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: hypertext05
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: three-state06
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: composite07
-    value: null
-    values: {}
-    elements: []
-    compositeelements:
-      - code: composite07-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite07-boolean
-        value: null
-        values:
-          en: composite07 boolean field
-          it: composite07 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Autem voluptatum error animi deserunt doloremque omnis sint.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach09
-    value: null
-    values: {}
+      en: <p>Beatae consectetur voluptas.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: text11
     value: null
     values:
-      en: <p>Autem voluptatum error animi deserunt doloremque omnis sint.</p>
+      en: <p>Beatae consectetur voluptas.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email01
+  - code: description
+    value: null
+    values:
+      en: <p>Beatae consectetur voluptas.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap06
     value: null
     values: {}
     elements: []
