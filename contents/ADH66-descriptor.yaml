@@ -1,0 +1,95 @@
+id: 3026
+typeCode: ADH
+description: Content ADH 66 description
+mainGroup: free
+status: PUBLIC
+listModel: '2960'
+defaultModel: '2961'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Debitis dolor soluta dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist02
+    value: null
+    values: {}
+    elements:
+      - code: monolist02
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: link01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Debitis dolor soluta dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext00
+    value: null
+    values:
+      en: <p>Debitis dolor soluta dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>Debitis dolor soluta dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Debitis dolor soluta dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

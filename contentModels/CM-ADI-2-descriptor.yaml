@@ -1,0 +1,15 @@
+id: 3042
+contentType: ADI
+description: ADI - Details
+contentShape: |-
+  <div class="ADI-container details">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

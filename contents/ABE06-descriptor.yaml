@@ -6,24 +6,36 @@ status: PUBLIC
 listModel: '1120'
 defaultModel: '1121'
 attributes:
-  - code: body
+  - code: longtext06
     value: null
     values:
-      en: <p>Maiores fuga modi vel numquam ducimus minima.</p>
+      en: <p>Sapiente doloribus deleniti sunt aut vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number06
+  - code: date08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist09
+  - code: number04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist05
     value: null
     values: {}
     elements:
-      - code: monolist09
+      - code: monolist05
         value: null
         values:
           en: list1 field
@@ -31,7 +43,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist09
+      - code: monolist05
         value: null
         values:
           en: list2 field
@@ -41,7 +53,7 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox11
+  - code: checkbox03
     value: null
     values: {}
     elements: []
@@ -50,18 +62,17 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Maiores fuga modi vel numquam ducimus minima.</p>
+      en: <p>Sapiente doloribus deleniti sunt aut vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text10
+  - code: attach07
     value: null
-    values:
-      en: <p>Maiores fuga modi vel numquam ducimus minima.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator08
+  - code: enumerator09
     value: null
     values: {}
     elements: []
@@ -70,17 +81,11 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Maiores fuga modi vel numquam ducimus minima.</p>
+      en: <p>Sapiente doloribus deleniti sunt aut vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap03
+  - code: email10
     value: null
     values: {}
     elements: []

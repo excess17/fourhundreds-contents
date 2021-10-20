@@ -1,0 +1,90 @@
+id: 5057
+typeCode: AGD
+description: Content AGD 17 description
+mainGroup: free
+status: PUBLIC
+listModel: '5040'
+defaultModel: '5041'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Beatae doloribus quaerat aliquid tempore ea.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Beatae doloribus quaerat aliquid tempore ea.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Beatae doloribus quaerat aliquid tempore ea.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>Beatae doloribus quaerat aliquid tempore ea.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

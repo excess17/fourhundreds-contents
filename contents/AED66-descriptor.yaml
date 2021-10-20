@@ -1,0 +1,94 @@
+id: 3506
+typeCode: AED
+description: Content AED 66 description
+mainGroup: free
+status: PUBLIC
+listModel: '3440'
+defaultModel: '3441'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Veritatis in quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist00
+    value: null
+    values: {}
+    elements:
+      - code: monolist00
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist00
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Veritatis in quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext08
+    value: null
+    values:
+      en: <p>Veritatis in quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Veritatis in quis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

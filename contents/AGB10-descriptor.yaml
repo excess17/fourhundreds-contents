@@ -1,0 +1,90 @@
+id: 4890
+typeCode: AGB
+description: Content AGB 10 description
+mainGroup: free
+status: PUBLIC
+listModel: '4880'
+defaultModel: '4881'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Qui vel et nulla nobis sunt illo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext03
+    value: null
+    values:
+      en: <p>Qui vel et nulla nobis sunt illo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Qui vel et nulla nobis sunt illo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Qui vel et nulla nobis sunt illo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

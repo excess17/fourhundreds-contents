@@ -1,0 +1,78 @@
+id: 4866
+typeCode: AGA
+description: Content AGA 66 description
+mainGroup: free
+status: PUBLIC
+listModel: '4800'
+defaultModel: '4801'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Non saepe voluptatem sit nesciunt.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Non saepe voluptatem sit nesciunt.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext00
+    value: null
+    values:
+      en: <p>Non saepe voluptatem sit nesciunt.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Non saepe voluptatem sit nesciunt.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

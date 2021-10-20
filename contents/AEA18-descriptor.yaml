@@ -1,0 +1,83 @@
+id: 3218
+typeCode: AEA
+description: Content AEA 18 description
+mainGroup: free
+status: PUBLIC
+listModel: '3200'
+defaultModel: '3201'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Praesentium repellat quas laboriosam itaque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Praesentium repellat quas laboriosam itaque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Praesentium repellat quas laboriosam itaque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

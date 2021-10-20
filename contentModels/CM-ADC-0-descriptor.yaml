@@ -1,0 +1,15 @@
+id: 2560
+contentType: ADC
+description: ADC - List
+contentShape: |-
+  <div class="ADC-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>

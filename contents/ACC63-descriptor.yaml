@@ -1,0 +1,65 @@
+id: 1823
+typeCode: ACC
+description: Content ACC 63 description
+mainGroup: free
+status: PUBLIC
+listModel: '1760'
+defaultModel: '1761'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Velit nulla rem quia amet.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Velit nulla rem quia amet.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Velit nulla rem quia amet.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -6,32 +6,48 @@ status: PUBLIC
 listModel: '800'
 defaultModel: '801'
 attributes:
-  - code: body
+  - code: longtext01
     value: null
     values:
-      en: <p>Voluptatem earum sit qui.</p>
+      en: <p>Soluta eum atque necessitatibus eligendi ea deserunt.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number10
+  - code: hypertext03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext11
+  - code: bool09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state00
+  - code: monolist08
     value: null
     values: {}
-    elements: []
+    elements:
+      - code: monolist08
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist08
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
     compositeelements: []
     listelements: {}
-  - code: bool02
+  - code: checkbox10
     value: null
     values: {}
     elements: []
@@ -40,24 +56,11 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Voluptatem earum sit qui.</p>
+      en: <p>Soluta eum atque necessitatibus eligendi ea deserunt.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text03
-    value: null
-    values:
-      en: <p>Voluptatem earum sit qui.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator04
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach09
+  - code: enumerator05
     value: null
     values: {}
     elements: []
@@ -66,17 +69,11 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Voluptatem earum sit qui.</p>
+      en: <p>Soluta eum atque necessitatibus eligendi ea deserunt.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap07
+  - code: email11
     value: null
     values: {}
     elements: []

@@ -6,38 +6,32 @@ status: PUBLIC
 listModel: '160'
 defaultModel: '161'
 attributes:
-  - code: body
+  - code: longtext04
     value: null
     values:
-      en: <p>Exercitationem dolore dolor reiciendis et ut.</p>
+      en: <p>Enim dolores veritatis eos recusandae dolore sed hic.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date03
+  - code: date01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state09
+  - code: number08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool11
+  - code: three-state07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: checkbox10
+  - code: link11
     value: null
     values: {}
     elements: []
@@ -46,30 +40,43 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Exercitationem dolore dolor reiciendis et ut.</p>
+      en: <p>Enim dolores veritatis eos recusandae dolore sed hic.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator04
+  - code: enumerator06
     value: null
     values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>Enim dolores veritatis eos recusandae dolore sed hic.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Exercitationem dolore dolor reiciendis et ut.</p>
+      en: <p>Enim dolores veritatis eos recusandae dolore sed hic.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email01
+  - code: email02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp06
+  - code: enumeratormap00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
     value: null
     values: {}
     elements: []

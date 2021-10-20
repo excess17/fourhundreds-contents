@@ -6,49 +6,24 @@ status: PUBLIC
 listModel: '80'
 defaultModel: '81'
 attributes:
-  - code: body
+  - code: longtext06
     value: null
     values:
-      en: <p>Consequatur similique accusamus quia rem praesentium.</p>
+      en: <p>Debitis delectus accusamus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date11
+  - code: image10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image05
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: description
-    value: null
-    values:
-      en: <p>Consequatur similique accusamus quia rem praesentium.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: number02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: hypertext04
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist01
+  - code: monolist02
     value: null
     values: {}
     elements:
-      - code: monolist01
+      - code: monolist02
         value: null
         values:
           en: list1 field
@@ -56,7 +31,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist01
+      - code: monolist02
         value: null
         values:
           en: list2 field
@@ -66,27 +41,27 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: composite07
+  - code: composite04
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite07-text
+      - code: composite04-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite07-boolean
+      - code: composite04-boolean
         value: null
         values:
-          en: composite07 boolean field
-          it: composite07 boolean field
+          en: composite04 boolean field
+          it: composite04 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: checkbox09
+  - code: link03
     value: null
     values: {}
     elements: []
@@ -95,30 +70,31 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Consequatur similique accusamus quia rem praesentium.</p>
+      en: <p>Debitis delectus accusamus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator08
+  - code: attach09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text10
+  - code: monotext11
     value: null
     values:
-      en: <p>Consequatur similique accusamus quia rem praesentium.</p>
+      en: <p>Debitis delectus accusamus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email00
+  - code: description
     value: null
-    values: {}
+    values:
+      en: <p>Debitis delectus accusamus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp06
+  - code: enumeratormap00
     value: null
     values: {}
     elements: []

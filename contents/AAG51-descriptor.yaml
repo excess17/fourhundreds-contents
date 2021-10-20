@@ -6,32 +6,38 @@ status: PUBLIC
 listModel: '480'
 defaultModel: '481'
 attributes:
-  - code: longtext06
+  - code: body
     value: null
     values:
-      en: <p>Tempore temporibus ut iste voluptatum ipsum quibusdam.</p>
+      en: <p>Occaecati dolores occaecati nam odit facilis fugit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date10
+  - code: hypertext01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number00
+  - code: three-state09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image03
+  - code: bool04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: checkbox05
+  - code: checkbox00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link10
     value: null
     values: {}
     elements: []
@@ -40,37 +46,38 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Tempore temporibus ut iste voluptatum ipsum quibusdam.</p>
+      en: <p>Occaecati dolores occaecati nam odit facilis fugit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach01
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext08
+  - code: text07
     value: null
     values:
-      en: <p>Tempore temporibus ut iste voluptatum ipsum quibusdam.</p>
+      en: <p>Occaecati dolores occaecati nam odit facilis fugit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator11
+  - code: enumerator08
     value: null
     values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext11
+    value: null
+    values:
+      en: <p>Occaecati dolores occaecati nam odit facilis fugit.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Tempore temporibus ut iste voluptatum ipsum quibusdam.</p>
+      en: <p>Occaecati dolores occaecati nam odit facilis fugit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp09
+  - code: enumeratormap03
     value: null
     values: {}
     elements: []

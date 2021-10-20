@@ -1,0 +1,95 @@
+id: 4764
+typeCode: AFL
+description: Content AFL 44 description
+mainGroup: free
+status: PUBLIC
+listModel: '4720'
+defaultModel: '4721'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Necessitatibus quia quis animi eveniet ullam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist02
+    value: null
+    values: {}
+    elements:
+      - code: monolist02
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite04
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite04-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite04-boolean
+        value: null
+        values:
+          en: composite04 boolean field
+          it: composite04 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Necessitatibus quia quis animi eveniet ullam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Necessitatibus quia quis animi eveniet ullam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}

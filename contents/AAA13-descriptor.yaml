@@ -6,14 +6,14 @@ status: PUBLIC
 listModel: '0'
 defaultModel: '1'
 attributes:
-  - code: body
+  - code: longtext10
     value: null
     values:
-      en: <p>Omnis exercitationem corporis atque.</p>
+      en: <p>Maxime ea magnam quo nisi quos vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date11
+  - code: date09
     value: null
     values: {}
     elements: []
@@ -25,7 +25,7 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool09
+  - code: bool11
     value: null
     values: {}
     elements: []
@@ -34,41 +34,53 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Omnis exercitationem corporis atque.</p>
+      en: <p>Maxime ea magnam quo nisi quos vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state10
+  - code: enumeratormap03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite03
+  - code: number00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite06
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite03-text
+      - code: composite06-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite03-boolean
+      - code: composite06-boolean
         value: null
         values:
-          en: composite03 boolean field
-          it: composite03 boolean field
+          en: composite06 boolean field
+          it: composite06 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: monolist05
+  - code: monolist07
     value: null
     values: {}
     elements:
-      - code: monolist05
+      - code: monolist07
         value: null
         values:
           en: list1 field
@@ -76,7 +88,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist05
+      - code: monolist07
         value: null
         values:
           en: list2 field
@@ -86,32 +98,20 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Omnis exercitationem corporis atque.</p>
+      en: <p>Maxime ea magnam quo nisi quos vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach07
+  - code: attach05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email01
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp04
+  - code: email08
     value: null
     values: {}
     elements: []

@@ -1,0 +1,77 @@
+id: 2861
+typeCode: ADF
+description: Content ADF 61 description
+mainGroup: free
+status: PUBLIC
+listModel: '2800'
+defaultModel: '2801'
+attributes:
+  - code: longtext00
+    value: null
+    values:
+      en: <p>Laborum numquam rerum molestiae soluta nemo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Laborum numquam rerum molestiae soluta nemo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Laborum numquam rerum molestiae soluta nemo.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

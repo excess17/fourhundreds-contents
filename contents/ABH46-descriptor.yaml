@@ -1,0 +1,87 @@
+id: 1406
+typeCode: ABH
+description: Content ABH 46 description
+mainGroup: free
+status: PUBLIC
+listModel: '1360'
+defaultModel: '1361'
+attributes:
+  - code: longtext09
+    value: null
+    values:
+      en: <p>Perspiciatis voluptatem excepturi voluptatibus aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite05
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite05-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite05-boolean
+        value: null
+        values:
+          en: composite05 boolean field
+          it: composite05 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Perspiciatis voluptatem excepturi voluptatibus aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext02
+    value: null
+    values:
+      en: <p>Perspiciatis voluptatem excepturi voluptatibus aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>Perspiciatis voluptatem excepturi voluptatibus aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Perspiciatis voluptatem excepturi voluptatibus aut.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}

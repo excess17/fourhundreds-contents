@@ -6,38 +6,80 @@ status: PUBLIC
 listModel: '720'
 defaultModel: '721'
 attributes:
-  - code: longtext09
+  - code: body
     value: null
     values:
-      en: <p>Esse soluta atque repellat voluptas tempore.</p>
+      en: <p>Quaerat omnis quas odio repellendus ullam ab itaque.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date02
+  - code: bool01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image00
+  - code: link03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number04
+  - code: monotext00
+    value: null
+    values:
+      en: <p>Quaerat omnis quas odio repellendus ullam ab itaque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Quaerat omnis quas odio repellendus ullam ab itaque.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state10
+  - code: number07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool08
+  - code: hypertext04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist09
+    value: null
+    values: {}
+    elements:
+      - code: monolist09
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist09
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox11
     value: null
     values: {}
     elements: []
@@ -46,31 +88,23 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Esse soluta atque repellat voluptas tempore.</p>
+      en: <p>Quaerat omnis quas odio repellendus ullam ab itaque.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text11
-    value: null
-    values:
-      en: <p>Esse soluta atque repellat voluptas tempore.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: description
-    value: null
-    values:
-      en: <p>Esse soluta atque repellat voluptas tempore.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: email03
+  - code: attach06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap06
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp05
     value: null
     values: {}
     elements: []

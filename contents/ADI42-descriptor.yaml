@@ -1,0 +1,72 @@
+id: 3082
+typeCode: ADI
+description: Content ADI 42 description
+mainGroup: free
+status: PUBLIC
+listModel: '3040'
+defaultModel: '3041'
+attributes:
+  - code: longtext07
+    value: null
+    values:
+      en: <p>Soluta impedit sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Soluta impedit sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text05
+    value: null
+    values:
+      en: <p>Soluta impedit sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Soluta impedit sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

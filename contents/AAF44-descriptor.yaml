@@ -6,90 +6,81 @@ status: PUBLIC
 listModel: '400'
 defaultModel: '401'
 attributes:
-  - code: longtext06
+  - code: longtext04
     value: null
     values:
-      en: <p>Mollitia unde quaerat dolor non ducimus.</p>
+      en: <p>Rerum qui asperiores ipsam aut voluptas ut nihil.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number02
+  - code: date03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image04
+  - code: number06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool11
+  - code: bool01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist08
+  - code: composite07
     value: null
     values: {}
-    elements:
-      - code: monolist08
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
+    elements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist08
+      - code: composite07-boolean
         value: null
         values:
-          en: list2 field
-          it: list2 field
+          en: composite07 boolean field
+          it: composite07 boolean field
         elements: []
         compositeelements: []
         listelements: {}
-    compositeelements: []
-    listelements: {}
-  - code: link09
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Mollitia unde quaerat dolor non ducimus.</p>
+      en: <p>Rerum qui asperiores ipsam aut voluptas ut nihil.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach01
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext03
+  - code: text10
     value: null
     values:
-      en: <p>Mollitia unde quaerat dolor non ducimus.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text07
-    value: null
-    values:
-      en: <p>Mollitia unde quaerat dolor non ducimus.</p>
+      en: <p>Rerum qui asperiores ipsam aut voluptas ut nihil.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Mollitia unde quaerat dolor non ducimus.</p>
+      en: <p>Rerum qui asperiores ipsam aut voluptas ut nihil.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

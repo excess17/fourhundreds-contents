@@ -1,0 +1,72 @@
+id: 4312
+typeCode: AFD
+description: Content AFD 72 description
+mainGroup: free
+status: PUBLIC
+listModel: '4240'
+defaultModel: '4241'
+attributes:
+  - code: longtext03
+    value: null
+    values:
+      en: <p>Voluptatem numquam aut minus enim.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Voluptatem numquam aut minus enim.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext07
+    value: null
+    values:
+      en: <p>Voluptatem numquam aut minus enim.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Voluptatem numquam aut minus enim.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}

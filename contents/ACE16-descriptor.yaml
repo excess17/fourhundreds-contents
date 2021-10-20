@@ -1,0 +1,71 @@
+id: 1936
+typeCode: ACE
+description: Content ACE 16 description
+mainGroup: free
+status: PUBLIC
+listModel: '1920'
+defaultModel: '1921'
+attributes:
+  - code: longtext06
+    value: null
+    values:
+      en: <p>Qui molestias saepe officia consequuntur esse corrupti dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Qui molestias saepe officia consequuntur esse corrupti dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Qui molestias saepe officia consequuntur esse corrupti dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
