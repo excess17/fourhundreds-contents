@@ -6,39 +6,71 @@ status: PUBLIC
 listModel: '1760'
 defaultModel: '1761'
 attributes:
-  - code: body
+  - code: longtext01
     value: null
     values:
-      en: <p>Dignissimos aut assumenda officiis pariatur maxime cum.</p>
+      en: <p>Similique maxime praesentium.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date04
+  - code: number09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool06
+  - code: hypertext08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: checkbox05
+  - code: three-state07
     value: null
     values: {}
     elements: []
     compositeelements: []
+    listelements: {}
+  - code: bool03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite10
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite10-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite10-boolean
+        value: null
+        values:
+          en: composite10 boolean field
+          it: composite10 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Dignissimos aut assumenda officiis pariatur maxime cum.</p>
+      en: <p>Similique maxime praesentium.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator08
+  - code: attach04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator11
     value: null
     values: {}
     elements: []
@@ -47,19 +79,7 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Dignissimos aut assumenda officiis pariatur maxime cum.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: email11
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp09
-    value: null
-    values: {}
+      en: <p>Similique maxime praesentium.</p>
     elements: []
     compositeelements: []
     listelements: {}

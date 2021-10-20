@@ -6,45 +6,29 @@ status: PUBLIC
 listModel: '800'
 defaultModel: '801'
 attributes:
-  - code: longtext01
+  - code: longtext04
     value: null
     values:
-      en: <p>Et doloribus suscipit reiciendis et sed ut.</p>
+      en: <p>Voluptates maiores cupiditate numquam saepe.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext03
+  - code: hypertext00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool09
+  - code: three-state05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist08
+  - code: bool07
     value: null
     values: {}
-    elements:
-      - code: monolist08
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: monolist08
-        value: null
-        values:
-          en: list2 field
-          it: list2 field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    elements: []
     compositeelements: []
     listelements: {}
   - code: checkbox10
@@ -56,24 +40,38 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Et doloribus suscipit reiciendis et sed ut.</p>
+      en: <p>Voluptates maiores cupiditate numquam saepe.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator05
+  - code: monotext01
+    value: null
+    values:
+      en: <p>Voluptates maiores cupiditate numquam saepe.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
     value: null
     values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text11
+    value: null
+    values:
+      en: <p>Voluptates maiores cupiditate numquam saepe.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Et doloribus suscipit reiciendis et sed ut.</p>
+      en: <p>Voluptates maiores cupiditate numquam saepe.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email11
+  - code: timestamp08
     value: null
     values: {}
     elements: []

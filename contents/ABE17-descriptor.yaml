@@ -6,54 +6,52 @@ status: PUBLIC
 listModel: '1120'
 defaultModel: '1121'
 attributes:
-  - code: longtext06
+  - code: body
     value: null
     values:
-      en: <p>Sit earum esse eos suscipit quam aut delectus.</p>
+      en: <p>Molestias vitae quia sunt vero.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date08
+  - code: date06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number04
+  - code: number09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state11
+  - code: hypertext07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist05
+  - code: composite05
     value: null
     values: {}
-    elements:
-      - code: monolist05
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
+    elements: []
+    compositeelements:
+      - code: composite05-text
+        value: true
+        values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist05
+      - code: composite05-boolean
         value: null
         values:
-          en: list2 field
-          it: list2 field
+          en: composite05 boolean field
+          it: composite05 boolean field
         elements: []
         compositeelements: []
         listelements: {}
-    compositeelements: []
     listelements: {}
-  - code: checkbox03
+  - code: link08
     value: null
     values: {}
     elements: []
@@ -62,30 +60,37 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Sit earum esse eos suscipit quam aut delectus.</p>
+      en: <p>Molestias vitae quia sunt vero.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach07
+  - code: monotext02
     value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator09
-    value: null
-    values: {}
+    values:
+      en: <p>Molestias vitae quia sunt vero.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Sit earum esse eos suscipit quam aut delectus.</p>
+      en: <p>Molestias vitae quia sunt vero.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email10
+  - code: email03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
     value: null
     values: {}
     elements: []

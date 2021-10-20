@@ -6,52 +6,68 @@ status: PUBLIC
 listModel: '1520'
 defaultModel: '1521'
 attributes:
-  - code: longtext01
+  - code: longtext08
     value: null
     values:
-      en: <p>Et officia corporis quis distinctio excepturi.</p>
+      en: <p>Ratione deserunt natus voluptas doloribus qui asperiores.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date00
+  - code: image07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image06
+  - code: hypertext02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state02
+  - code: monolist04
     value: null
     values: {}
-    elements: []
+    elements:
+      - code: monolist04
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist04
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
     compositeelements: []
     listelements: {}
-  - code: composite11
+  - code: composite05
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite11-text
+      - code: composite05-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite11-boolean
+      - code: composite05-boolean
         value: null
         values:
-          en: composite11 boolean field
-          it: composite11 boolean field
+          en: composite05 boolean field
+          it: composite05 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: link07
+  - code: checkbox03
     value: null
     values: {}
     elements: []
@@ -60,34 +76,33 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Et officia corporis quis distinctio excepturi.</p>
+      en: <p>Ratione deserunt natus voluptas doloribus qui asperiores.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext04
-    value: null
-    values:
-      en: <p>Et officia corporis quis distinctio excepturi.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text05
-    value: null
-    values:
-      en: <p>Et officia corporis quis distinctio excepturi.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach08
+  - code: attach06
     value: null
     values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text09
+    value: null
+    values:
+      en: <p>Ratione deserunt natus voluptas doloribus qui asperiores.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Et officia corporis quis distinctio excepturi.</p>
+      en: <p>Ratione deserunt natus voluptas doloribus qui asperiores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

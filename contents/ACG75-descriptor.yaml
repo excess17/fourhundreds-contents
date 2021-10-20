@@ -6,50 +6,38 @@ status: PUBLIC
 listModel: '2080'
 defaultModel: '2081'
 attributes:
-  - code: longtext05
+  - code: longtext06
     value: null
     values:
-      en: <p>Dolores eos facere tempore et enim.</p>
+      en: <p>Inventore eum id nam vel quo laudantium quasi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number03
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: hypertext08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: composite09
+  - code: composite11
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite09-text
+      - code: composite11-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite09-boolean
+      - code: composite11-boolean
         value: null
         values:
-          en: composite09 boolean field
-          it: composite09 boolean field
+          en: composite11 boolean field
+          it: composite11 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: monolist04
+  - code: monolist03
     value: null
     values: {}
     elements:
-      - code: monolist04
+      - code: monolist03
         value: null
         values:
           en: list1 field
@@ -57,7 +45,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist04
+      - code: monolist03
         value: null
         values:
           en: list2 field
@@ -67,7 +55,13 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: link07
+  - code: link09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox10
     value: null
     values: {}
     elements: []
@@ -76,18 +70,17 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Dolores eos facere tempore et enim.</p>
+      en: <p>Inventore eum id nam vel quo laudantium quasi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text00
+  - code: enumerator07
     value: null
-    values:
-      en: <p>Dolores eos facere tempore et enim.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach11
+  - code: attach08
     value: null
     values: {}
     elements: []
@@ -96,11 +89,17 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Dolores eos facere tempore et enim.</p>
+      en: <p>Inventore eum id nam vel quo laudantium quasi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp10
+  - code: email05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp01
     value: null
     values: {}
     elements: []

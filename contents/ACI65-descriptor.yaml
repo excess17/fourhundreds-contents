@@ -6,48 +6,48 @@ status: PUBLIC
 listModel: '2240'
 defaultModel: '2241'
 attributes:
-  - code: longtext06
+  - code: body
     value: null
     values:
-      en: <p>Molestiae reiciendis est.</p>
+      en: <p>Rerum excepturi nesciunt qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date00
+  - code: date08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image11
+  - code: image09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext04
+  - code: number10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state05
+  - code: hypertext02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool09
+  - code: three-state03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist10
+  - code: monolist05
     value: null
     values: {}
     elements:
-      - code: monolist10
+      - code: monolist05
         value: null
         values:
           en: list1 field
@@ -55,7 +55,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist10
+      - code: monolist05
         value: null
         values:
           en: list2 field
@@ -65,7 +65,7 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: link03
+  - code: checkbox01
     value: null
     values: {}
     elements: []
@@ -74,25 +74,25 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Molestiae reiciendis est.</p>
+      en: <p>Rerum excepturi nesciunt qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text08
+  - code: monotext11
     value: null
     values:
-      en: <p>Molestiae reiciendis est.</p>
+      en: <p>Rerum excepturi nesciunt qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Molestiae reiciendis est.</p>
+      en: <p>Rerum excepturi nesciunt qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email07
+  - code: timestamp06
     value: null
     values: {}
     elements: []

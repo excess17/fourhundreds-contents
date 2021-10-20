@@ -9,35 +9,48 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Modi vel atque ut incidunt.</p>
+      en: <p>Repellat quia debitis nam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext01
+  - code: link03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state09
+  - code: description
+    value: null
+    values:
+      en: <p>Repellat quia debitis nam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool04
+  - code: number07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: checkbox00
+  - code: hypertext06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link10
+  - code: three-state08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox11
     value: null
     values: {}
     elements: []
@@ -46,38 +59,30 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Modi vel atque ut incidunt.</p>
+      en: <p>Repellat quia debitis nam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text07
-    value: null
-    values:
-      en: <p>Modi vel atque ut incidunt.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator08
+  - code: enumerator01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext11
+  - code: text10
     value: null
     values:
-      en: <p>Modi vel atque ut incidunt.</p>
+      en: <p>Repellat quia debitis nam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: description
+  - code: email04
     value: null
-    values:
-      en: <p>Modi vel atque ut incidunt.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap03
+  - code: timestamp02
     value: null
     values: {}
     elements: []

@@ -6,62 +6,61 @@ status: PUBLIC
 listModel: '1840'
 defaultModel: '1841'
 attributes:
-  - code: body
+  - code: longtext09
     value: null
     values:
-      en: <p>Accusamus voluptas qui qui debitis debitis aut.</p>
+      en: <p>Molestiae aut sint molestiae veritatis.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date03
+  - code: image08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image07
+  - code: link10
     value: null
     values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext11
-    value: null
-    values:
-      en: <p>Accusamus voluptas qui qui debitis debitis aut.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Accusamus voluptas qui qui debitis debitis aut.</p>
+      en: <p>Molestiae aut sint molestiae veritatis.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap01
+  - code: enumeratormap06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number05
+  - code: number11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext08
+  - code: hypertext01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist02
+  - code: three-state00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist07
     value: null
     values: {}
     elements:
-      - code: monolist02
+      - code: monolist07
         value: null
         values:
           en: list1 field
@@ -69,7 +68,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist02
+      - code: monolist07
         value: null
         values:
           en: list2 field
@@ -79,27 +78,26 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: title
-    value: null
-    values:
-      en: <p>Accusamus voluptas qui qui debitis debitis aut.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach06
+  - code: checkbox03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text09
+  - code: title
     value: null
     values:
-      en: <p>Accusamus voluptas qui qui debitis debitis aut.</p>
+      en: <p>Molestiae aut sint molestiae veritatis.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp10
+  - code: attach04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email05
     value: null
     values: {}
     elements: []

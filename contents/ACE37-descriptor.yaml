@@ -6,44 +6,32 @@ status: PUBLIC
 listModel: '1920'
 defaultModel: '1921'
 attributes:
-  - code: longtext06
+  - code: body
     value: null
     values:
-      en: <p>Vitae quisquam consequatur hic quaerat cum et rerum.</p>
+      en: <p>Quo dignissimos aut dolor adipisci modi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number00
+  - code: date10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext10
+  - code: hypertext09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state02
+  - code: three-state11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool05
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: link11
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: checkbox07
+  - code: link08
     value: null
     values: {}
     elements: []
@@ -52,20 +40,27 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Vitae quisquam consequatur hic quaerat cum et rerum.</p>
+      en: <p>Quo dignissimos aut dolor adipisci modi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach08
+  - code: monotext05
     value: null
-    values: {}
+    values:
+      en: <p>Quo dignissimos aut dolor adipisci modi.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Vitae quisquam consequatur hic quaerat cum et rerum.</p>
+      en: <p>Quo dignissimos aut dolor adipisci modi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email06
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

@@ -6,56 +6,30 @@ status: PUBLIC
 listModel: '1200'
 defaultModel: '1201'
 attributes:
-  - code: longtext11
+  - code: body
     value: null
     values:
-      en: <p>Voluptatum sed asperiores minima molestiae facilis aut.</p>
+      en: <p>Autem sed modi consectetur eum ut possimus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image00
+  - code: date11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number03
+  - code: number10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool05
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: composite07
-    value: null
-    values: {}
-    elements: []
-    compositeelements:
-      - code: composite07-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite07-boolean
-        value: null
-        values:
-          en: composite07 boolean field
-          it: composite07 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
-    listelements: {}
-  - code: monolist06
+  - code: monolist02
     value: null
     values: {}
     elements:
-      - code: monolist06
+      - code: monolist02
         value: null
         values:
           en: list1 field
@@ -63,7 +37,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist06
+      - code: monolist02
         value: null
         values:
           en: list2 field
@@ -73,20 +47,47 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: title
+  - code: composite04
     value: null
-    values:
-      en: <p>Voluptatum sed asperiores minima molestiae facilis aut.</p>
+    values: {}
     elements: []
-    compositeelements: []
+    compositeelements:
+      - code: composite04-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite04-boolean
+        value: null
+        values:
+          en: composite04 boolean field
+          it: composite04 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
-  - code: attach04
+  - code: link03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator09
+  - code: title
+    value: null
+    values:
+      en: <p>Autem sed modi consectetur eum ut possimus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
+    value: null
+    values:
+      en: <p>Autem sed modi consectetur eum ut possimus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach06
     value: null
     values: {}
     elements: []
@@ -95,11 +96,11 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Voluptatum sed asperiores minima molestiae facilis aut.</p>
+      en: <p>Autem sed modi consectetur eum ut possimus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email10
+  - code: timestamp07
     value: null
     values: {}
     elements: []

@@ -105,317 +105,7 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: number00
-    type: Number
-    names:
-      en: number it
-      it: number en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: attach01
-    type: Attach
-    names:
-      en: attach it
-      it: attach en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: text02
-    type: Text
-    names:
-      en: text it
-      it: text en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: checkbox03
-    type: CheckBox
-    names:
-      en: checkbox it
-      it: checkbox en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: composite04
-    type: Composite
-    names:
-      en: composite04 en
-      it: composite04 it
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-    compositeAttributes:
-      - code: composite04text
-        type: Text
-        name: composite04text
-        names:
-          en: composite04text composite text en
-          it: composite04text composite text it
-        roles: [ ]
-        disablingCodes: [ ]
-        mandatory: false
-        listFilter: false
-        indexable: false
-        enumeratorStaticItems: null
-        enumeratorStaticItemsSeparator: null
-        enumeratorExtractorBean: null
-        validationRules:
-          minLength: null
-          maxLength: null
-          regex: null
-          rangeStartString: null
-          rangeEndString: null
-          rangeStartStringAttribute: null
-          rangeEndStringAttribute: null
-          equalString: null
-          equalStringAttribute: null
-          rangeStartDate: null
-          rangeEndDate: null
-          rangeStartDateAttribute: null
-          rangeEndDateAttribute: null
-          equalDate: null
-          equalDateAttribute: null
-          rangeStartNumber: null
-          rangeStartNumberAttribute: null
-          rangeEndNumber: null
-          rangeEndNumberAttribute: null
-          equalNumber: null
-          equalNumberAttribute: null
-          ognlValidation: null
-        nestedAttribute: null
-        compositeAttributes: null
-      - code: composite04boolean
-        type: Boolean
-        name: composite04boolean
-        names:
-          en: composite04boolean composite boolean en
-          it: composite04boolean composite boolean it
-        roles: [ ]
-        disablingCodes: [ ]
-        mandatory: false
-        listFilter: false
-        indexable: false
-        enumeratorStaticItems: null
-        enumeratorStaticItemsSeparator: null
-        enumeratorExtractorBean: null
-        validationRules:
-          minLength: null
-          maxLength: null
-          regex: null
-          rangeStartString: null
-          rangeEndString: null
-          rangeStartStringAttribute: null
-          rangeEndStringAttribute: null
-          equalString: null
-          equalStringAttribute: null
-          rangeStartDate: null
-          rangeEndDate: null
-          rangeStartDateAttribute: null
-          rangeEndDateAttribute: null
-          equalDate: null
-          equalDateAttribute: null
-          rangeStartNumber: null
-          rangeStartNumberAttribute: null
-          rangeEndNumber: null
-          rangeEndNumberAttribute: null
-          equalNumber: null
-          equalNumberAttribute: null
-          ognlValidation: null
-        nestedAttribute: null
-        compositeAttributes: null
-  - code: attach05
-    type: Attach
-    names:
-      en: attach it
-      it: attach en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: monotext06
-    type: Monotext
-    names:
-      en: monotext it
-      it: monotext en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: image07
+  - code: image00
     type: Image
     names:
       en: image it
@@ -448,40 +138,7 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: timestamp08
-    type: Timestamp
-    names:
-      en: timestamp it
-      it: timestamp en
-    roles: []
-    disablingCodes: []
-    mandatory: false
-    listFilter: false
-    indexable: false
-    validationRules:
-      minLength: null
-      maxLength: null
-      regex: null
-      rangeStartString: null
-      rangeEndString: null
-      rangeStartStringAttribute: null
-      rangeEndStringAttribute: null
-      equalString: null
-      equalStringAttribute: null
-      rangeStartDate: null
-      rangeEndDate: null
-      rangeStartDateAttribute: null
-      rangeEndDateAttribute: null
-      equalDate: null
-      equalDateAttribute: null
-      rangeStartNumber: null
-      rangeStartNumberAttribute: null
-      rangeEndNumber: null
-      rangeEndNumberAttribute: null
-      equalNumber: null
-      equalNumberAttribute: null
-      ognlValidation: null
-  - code: date09
+  - code: date01
     type: Date
     names:
       en: date it
@@ -514,7 +171,77 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: monotext10
+  - code: enumeratormap02
+    type: EnumeratorMap
+    names:
+      en: enumeratormap it
+      it: enumeratormap en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    enumeratorStaticItems: 'key1=val1, key2=val2, key3=val3'
+    enumeratorStaticItemsSeparator: ','
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: enumerator03
+    type: Enumerator
+    names:
+      en: enumerator it
+      it: enumerator en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    enumeratorStaticItems: 'label1,label2,label3'
+    enumeratorStaticItemsSeparator: ','
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: monotext04
     type: Monotext
     names:
       en: monotext it
@@ -547,7 +274,253 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
-  - code: checkbox11
+  - code: enumeratormap05
+    type: EnumeratorMap
+    names:
+      en: enumeratormap it
+      it: enumeratormap en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    enumeratorStaticItems: 'key1=val1, key2=val2, key3=val3'
+    enumeratorStaticItemsSeparator: ','
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: number06
+    type: Number
+    names:
+      en: number it
+      it: number en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: number07
+    type: Number
+    names:
+      en: number it
+      it: number en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: hypertext08
+    type: Hypertext
+    names:
+      en: hypertext it
+      it: hypertext en
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+  - code: composite09
+    type: Composite
+    names:
+      en: composite09 en
+      it: composite09 it
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+    compositeAttributes:
+      - code: composite09text
+        type: Text
+        name: composite09text
+        names:
+          en: composite09text composite text en
+          it: composite09text composite text it
+        roles: [ ]
+        disablingCodes: [ ]
+        mandatory: false
+        listFilter: false
+        indexable: false
+        enumeratorStaticItems: null
+        enumeratorStaticItemsSeparator: null
+        enumeratorExtractorBean: null
+        validationRules:
+          minLength: null
+          maxLength: null
+          regex: null
+          rangeStartString: null
+          rangeEndString: null
+          rangeStartStringAttribute: null
+          rangeEndStringAttribute: null
+          equalString: null
+          equalStringAttribute: null
+          rangeStartDate: null
+          rangeEndDate: null
+          rangeStartDateAttribute: null
+          rangeEndDateAttribute: null
+          equalDate: null
+          equalDateAttribute: null
+          rangeStartNumber: null
+          rangeStartNumberAttribute: null
+          rangeEndNumber: null
+          rangeEndNumberAttribute: null
+          equalNumber: null
+          equalNumberAttribute: null
+          ognlValidation: null
+        nestedAttribute: null
+        compositeAttributes: null
+      - code: composite09boolean
+        type: Boolean
+        name: composite09boolean
+        names:
+          en: composite09boolean composite boolean en
+          it: composite09boolean composite boolean it
+        roles: [ ]
+        disablingCodes: [ ]
+        mandatory: false
+        listFilter: false
+        indexable: false
+        enumeratorStaticItems: null
+        enumeratorStaticItemsSeparator: null
+        enumeratorExtractorBean: null
+        validationRules:
+          minLength: null
+          maxLength: null
+          regex: null
+          rangeStartString: null
+          rangeEndString: null
+          rangeStartStringAttribute: null
+          rangeEndStringAttribute: null
+          equalString: null
+          equalStringAttribute: null
+          rangeStartDate: null
+          rangeEndDate: null
+          rangeStartDateAttribute: null
+          rangeEndDateAttribute: null
+          equalDate: null
+          equalDateAttribute: null
+          rangeStartNumber: null
+          rangeStartNumberAttribute: null
+          rangeEndNumber: null
+          rangeEndNumberAttribute: null
+          equalNumber: null
+          equalNumberAttribute: null
+          ognlValidation: null
+        nestedAttribute: null
+        compositeAttributes: null
+  - code: checkbox10
     type: CheckBox
     names:
       en: checkbox it
@@ -580,3 +553,76 @@ attributes:
       equalNumber: null
       equalNumberAttribute: null
       ognlValidation: null
+  - code: monolist11
+    type: Monolist
+    names:
+      en: monolist11 en
+      it: monolist11 it
+    roles: []
+    disablingCodes: []
+    mandatory: false
+    listFilter: false
+    indexable: false
+    validationRules:
+      minLength: null
+      maxLength: null
+      regex: null
+      rangeStartString: null
+      rangeEndString: null
+      rangeStartStringAttribute: null
+      rangeEndStringAttribute: null
+      equalString: null
+      equalStringAttribute: null
+      rangeStartDate: null
+      rangeEndDate: null
+      rangeStartDateAttribute: null
+      rangeEndDateAttribute: null
+      equalDate: null
+      equalDateAttribute: null
+      rangeStartNumber: null
+      rangeStartNumberAttribute: null
+      rangeEndNumber: null
+      rangeEndNumberAttribute: null
+      equalNumber: null
+      equalNumberAttribute: null
+      ognlValidation: null
+    nestedAttribute:
+      code: monolist11-nested
+      type: Text
+      name: monolist11-nested
+      names:
+        en: monolist11-nested en
+        it: monolist11-nested it
+      roles: []
+      disablingCodes: []
+      mandatory: false
+      listFilter: false
+      indexable: false
+      enumeratorStaticItems: null
+      enumeratorStaticItemsSeparator: null
+      enumeratorExtractorBean: null
+      validationRules:
+        minLength: null
+        maxLength: null
+        regex: null
+        rangeStartString: null
+        rangeEndString: null
+        rangeStartStringAttribute: null
+        rangeEndStringAttribute: null
+        equalString: null
+        equalStringAttribute: null
+        rangeStartDate: null
+        rangeEndDate: null
+        rangeStartDateAttribute: null
+        rangeEndDateAttribute: null
+        equalDate: null
+        equalDateAttribute: null
+        rangeStartNumber: null
+        rangeStartNumberAttribute: null
+        rangeEndNumber: null
+        rangeEndNumberAttribute: null
+        equalNumber: null
+        equalNumberAttribute: null
+        ognlValidation: null
+      nestedAttribute: null
+      compositeAttributes: null

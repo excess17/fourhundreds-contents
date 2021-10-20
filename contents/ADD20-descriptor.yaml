@@ -6,52 +6,64 @@ status: PUBLIC
 listModel: '2640'
 defaultModel: '2641'
 attributes:
-  - code: body
+  - code: longtext05
     value: null
     values:
-      en: <p>Excepturi pariatur reprehenderit quisquam harum.</p>
+      en: <p>Voluptas dolore quas beatae et odit sequi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number01
+  - code: date09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image06
+  - code: image04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite11
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite06
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite11-text
+      - code: composite06-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite11-boolean
+      - code: composite06-boolean
         value: null
         values:
-          en: composite11 boolean field
-          it: composite11 boolean field
+          en: composite06 boolean field
+          it: composite06 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: link02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: checkbox09
+  - code: checkbox03
     value: null
     values: {}
     elements: []
@@ -60,32 +72,25 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Excepturi pariatur reprehenderit quisquam harum.</p>
+      en: <p>Voluptas dolore quas beatae et odit sequi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext07
+  - code: monotext11
     value: null
     values:
-      en: <p>Excepturi pariatur reprehenderit quisquam harum.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text08
-    value: null
-    values:
-      en: <p>Excepturi pariatur reprehenderit quisquam harum.</p>
+      en: <p>Voluptas dolore quas beatae et odit sequi.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Excepturi pariatur reprehenderit quisquam harum.</p>
+      en: <p>Voluptas dolore quas beatae et odit sequi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp03
+  - code: enumeratormap07
     value: null
     values: {}
     elements: []

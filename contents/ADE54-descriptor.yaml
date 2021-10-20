@@ -9,33 +9,41 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Enim autem assumenda.</p>
+      en: <p>Laboriosam a quia ea ipsam facere excepturi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number11
+  - code: number08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image10
+  - code: image11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext00
+  - code: composite03
     value: null
     values: {}
     elements: []
-    compositeelements: []
-    listelements: {}
-  - code: bool07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
+    compositeelements:
+      - code: composite03-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite03-boolean
+        value: null
+        values:
+          en: composite03 boolean field
+          it: composite03 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
   - code: checkbox05
     value: null
@@ -46,37 +54,43 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Enim autem assumenda.</p>
+      en: <p>Laboriosam a quia ea ipsam facere excepturi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach02
+  - code: attach00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext04
+  - code: enumerator07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
     value: null
     values:
-      en: <p>Enim autem assumenda.</p>
+      en: <p>Laboriosam a quia ea ipsam facere excepturi.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Enim autem assumenda.</p>
+      en: <p>Laboriosam a quia ea ipsam facere excepturi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email09
+  - code: enumeratormap02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp06
+  - code: timestamp10
     value: null
     values: {}
     elements: []

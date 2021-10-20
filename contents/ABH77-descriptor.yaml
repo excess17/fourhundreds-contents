@@ -6,73 +6,64 @@ status: PUBLIC
 listModel: '1360'
 defaultModel: '1361'
 attributes:
-  - code: longtext09
+  - code: body
     value: null
     values:
-      en: <p>Labore adipisci itaque.</p>
+      en: <p>Et delectus eos vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image11
+  - code: date04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext00
+  - code: image05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite05
+  - code: three-state01
     value: null
     values: {}
     elements: []
-    compositeelements:
-      - code: composite05-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite05-boolean
-        value: null
-        values:
-          en: composite05 boolean field
-          it: composite05 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: bool00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Labore adipisci itaque.</p>
+      en: <p>Et delectus eos vitae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext02
-    value: null
-    values:
-      en: <p>Labore adipisci itaque.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text10
-    value: null
-    values:
-      en: <p>Labore adipisci itaque.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach04
+  - code: attach11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator06
+  - code: monotext08
+    value: null
+    values:
+      en: <p>Et delectus eos vitae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
     value: null
     values: {}
     elements: []
@@ -81,7 +72,13 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Labore adipisci itaque.</p>
+      en: <p>Et delectus eos vitae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

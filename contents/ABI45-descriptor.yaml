@@ -6,44 +6,62 @@ status: PUBLIC
 listModel: '1440'
 defaultModel: '1441'
 attributes:
-  - code: longtext04
+  - code: body
     value: null
     values:
-      en: <p>Consequatur quia quis sunt et fugiat velit doloribus.</p>
+      en: <p>Sit reiciendis placeat laborum laboriosam illo sed.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date09
+  - code: three-state06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image07
+  - code: monolist07
+    value: null
+    values: {}
+    elements:
+      - code: monolist07
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist07
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite08
     value: null
     values: {}
     elements: []
-    compositeelements: []
+    compositeelements:
+      - code: composite08-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite08-boolean
+        value: null
+        values:
+          en: composite08 boolean field
+          it: composite08 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
-  - code: three-state10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: bool06
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: link00
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: checkbox01
+  - code: checkbox02
     value: null
     values: {}
     elements: []
@@ -52,31 +70,31 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Consequatur quia quis sunt et fugiat velit doloribus.</p>
+      en: <p>Sit reiciendis placeat laborum laboriosam illo sed.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach03
+  - code: enumerator09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text11
+  - code: monotext11
     value: null
     values:
-      en: <p>Consequatur quia quis sunt et fugiat velit doloribus.</p>
+      en: <p>Sit reiciendis placeat laborum laboriosam illo sed.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Consequatur quia quis sunt et fugiat velit doloribus.</p>
+      en: <p>Sit reiciendis placeat laborum laboriosam illo sed.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap08
+  - code: timestamp10
     value: null
     values: {}
     elements: []

@@ -6,26 +6,51 @@ status: PUBLIC
 listModel: '400'
 defaultModel: '401'
 attributes:
-  - code: longtext04
+  - code: body
     value: null
     values:
-      en: <p>Ut sit perspiciatis autem ut qui praesentium quo.</p>
+      en: <p>Fuga alias magnam sit quaerat quos.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date03
+  - code: date08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number06
+  - code: image04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool01
+  - code: bool00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Fuga alias magnam sit quaerat quos.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state06
     value: null
     values: {}
     elements: []
@@ -54,31 +79,24 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Ut sit perspiciatis autem ut qui praesentium quo.</p>
+      en: <p>Fuga alias magnam sit quaerat quos.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text10
-    value: null
-    values:
-      en: <p>Ut sit perspiciatis autem ut qui praesentium quo.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: description
-    value: null
-    values:
-      en: <p>Ut sit perspiciatis autem ut qui praesentium quo.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: email08
+  - code: attach09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap11
+  - code: text11
+    value: null
+    values:
+      en: <p>Fuga alias magnam sit quaerat quos.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email01
     value: null
     values: {}
     elements: []

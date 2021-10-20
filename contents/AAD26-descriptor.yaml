@@ -6,14 +6,20 @@ status: PUBLIC
 listModel: '240'
 defaultModel: '241'
 attributes:
-  - code: longtext09
+  - code: body
     value: null
     values:
-      en: <p>Et cum maxime quia tempora debitis est rem.</p>
+      en: <p>Consequatur expedita et est adipisci perferendis.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image00
+  - code: image07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number11
     value: null
     values: {}
     elements: []
@@ -25,11 +31,11 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist10
+  - code: monolist05
     value: null
     values: {}
     elements:
-      - code: monolist10
+      - code: monolist05
         value: null
         values:
           en: list1 field
@@ -37,7 +43,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist10
+      - code: monolist05
         value: null
         values:
           en: list2 field
@@ -47,40 +53,34 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: link08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Et cum maxime quia tempora debitis est rem.</p>
+      en: <p>Consequatur expedita et est adipisci perferendis.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text02
-    value: null
-    values:
-      en: <p>Et cum maxime quia tempora debitis est rem.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator04
+  - code: attach08
     value: null
     values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext06
+    value: null
+    values:
+      en: <p>Consequatur expedita et est adipisci perferendis.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Et cum maxime quia tempora debitis est rem.</p>
+      en: <p>Consequatur expedita et est adipisci perferendis.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap11
+  - code: email09
     value: null
     values: {}
     elements: []

@@ -9,49 +9,97 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Expedita enim similique.</p>
+      en: <p>Sequi est voluptatem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date09
+  - code: date01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number00
+  - code: image00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image07
+  - code: monotext04
+    value: null
+    values:
+      en: <p>Sequi est voluptatem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Sequi est voluptatem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite04
+  - code: number07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite09
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite04-text
+      - code: composite09-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite04-boolean
+      - code: composite09-boolean
         value: null
         values:
-          en: composite04 boolean field
-          it: composite04 boolean field
+          en: composite09 boolean field
+          it: composite09 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: checkbox11
+  - code: monolist11
+    value: null
+    values: {}
+    elements:
+      - code: monolist11
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist11
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox10
     value: null
     values: {}
     elements: []
@@ -60,38 +108,11 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Expedita enim similique.</p>
+      en: <p>Sequi est voluptatem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach05
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text02
-    value: null
-    values:
-      en: <p>Expedita enim similique.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext10
-    value: null
-    values:
-      en: <p>Expedita enim similique.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: description
-    value: null
-    values:
-      en: <p>Expedita enim similique.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp08
+  - code: enumerator03
     value: null
     values: {}
     elements: []
