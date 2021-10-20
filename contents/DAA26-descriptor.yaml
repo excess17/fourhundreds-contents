@@ -9,17 +9,11 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Blanditiis vitae et consectetur.</p>
+      en: <p>Vel beatae dolor nobis consequatur qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: checkbox00
+  - code: date02
     value: null
     values: {}
     elements: []
@@ -31,46 +25,94 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: title
-    value: null
-    values:
-      en: <p>Blanditiis vitae et consectetur.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext01
-    value: null
-    values:
-      en: <p>Blanditiis vitae et consectetur.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator11
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Blanditiis vitae et consectetur.</p>
+      en: <p>Vel beatae dolor nobis consequatur qui.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email08
+  - code: hypertext01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap03
+  - code: three-state07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp10
+  - code: composite05
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite05-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite05-boolean
+        value: null
+        values:
+          en: composite05 boolean field
+          it: composite05 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist10
+    value: null
+    values: {}
+    elements:
+      - code: monolist10
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist10
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Vel beatae dolor nobis consequatur qui.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text08
+    value: null
+    values:
+      en: <p>Vel beatae dolor nobis consequatur qui.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp04
     value: null
     values: {}
     elements: []
