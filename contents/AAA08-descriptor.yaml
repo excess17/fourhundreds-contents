@@ -9,23 +9,23 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Nisi voluptatibus explicabo magni vitae voluptatem debitis quasi.</p>
+      en: <p>Facere sed dolorum eum id soluta commodi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image07
+  - code: date11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool06
+  - code: image02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link03
+  - code: bool09
     value: null
     values: {}
     elements: []
@@ -34,21 +34,41 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Nisi voluptatibus explicabo magni vitae voluptatem debitis quasi.</p>
+      en: <p>Facere sed dolorum eum id soluta commodi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state11
+  - code: three-state10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist02
+  - code: composite03
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite03-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite03-boolean
+        value: null
+        values:
+          en: composite03 boolean field
+          it: composite03 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist05
     value: null
     values: {}
     elements:
-      - code: monolist02
+      - code: monolist05
         value: null
         values:
           en: list1 field
@@ -56,7 +76,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist02
+      - code: monolist05
         value: null
         values:
           en: list2 field
@@ -66,7 +86,7 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox10
+  - code: checkbox08
     value: null
     values: {}
     elements: []
@@ -75,29 +95,23 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Nisi voluptatibus explicabo magni vitae voluptatem debitis quasi.</p>
+      en: <p>Facere sed dolorum eum id soluta commodi.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator09
+  - code: attach07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach04
+  - code: email01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp05
+  - code: timestamp04
     value: null
     values: {}
     elements: []

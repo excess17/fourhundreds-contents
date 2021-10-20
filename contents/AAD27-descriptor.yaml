@@ -6,36 +6,56 @@ status: PUBLIC
 listModel: '240'
 defaultModel: '241'
 attributes:
-  - code: longtext00
+  - code: longtext05
     value: null
     values:
-      en: <p>Aut ea soluta dolorem culpa consequuntur rerum.</p>
+      en: <p>Vero ratione ab maxime nisi possimus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date08
+  - code: image01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number09
+  - code: hypertext08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state03
+  - code: three-state04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist05
+  - code: composite10
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite10-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite10-boolean
+        value: null
+        values:
+          en: composite10 boolean field
+          it: composite10 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist11
     value: null
     values: {}
     elements:
-      - code: monolist05
+      - code: monolist11
         value: null
         values:
           en: list1 field
@@ -43,7 +63,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist05
+      - code: monolist11
         value: null
         values:
           en: list2 field
@@ -53,13 +73,7 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: link11
+  - code: link02
     value: null
     values: {}
     elements: []
@@ -68,27 +82,26 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Aut ea soluta dolorem culpa consequuntur rerum.</p>
+      en: <p>Vero ratione ab maxime nisi possimus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach04
+  - code: enumerator00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text02
+  - code: attach09
     value: null
-    values:
-      en: <p>Aut ea soluta dolorem culpa consequuntur rerum.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Aut ea soluta dolorem culpa consequuntur rerum.</p>
+      en: <p>Vero ratione ab maxime nisi possimus.</p>
     elements: []
     compositeelements: []
     listelements: {}

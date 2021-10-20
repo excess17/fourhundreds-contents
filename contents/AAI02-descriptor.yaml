@@ -9,42 +9,17 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Necessitatibus totam ut officiis aut distinctio.</p>
+      en: <p>Hic similique totam quasi asperiores.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date02
+  - code: image00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext00
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: bool06
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: link09
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: title
-    value: null
-    values:
-      en: <p>Necessitatibus totam ut officiis aut distinctio.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator04
+  - code: link07
     value: null
     values: {}
     elements: []
@@ -53,30 +28,78 @@ attributes:
   - code: monotext08
     value: null
     values:
-      en: <p>Necessitatibus totam ut officiis aut distinctio.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach11
-    value: null
-    values: {}
+      en: <p>Hic similique totam quasi asperiores.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Necessitatibus totam ut officiis aut distinctio.</p>
+      en: <p>Hic similique totam quasi asperiores.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap03
+  - code: number03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp07
+  - code: three-state09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist02
+    value: null
+    values: {}
+    elements:
+      - code: monolist02
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Hic similique totam quasi asperiores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text10
+    value: null
+    values:
+      en: <p>Hic similique totam quasi asperiores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp05
     value: null
     values: {}
     elements: []

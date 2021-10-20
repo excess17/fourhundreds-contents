@@ -6,32 +6,60 @@ status: PUBLIC
 listModel: '960'
 defaultModel: '961'
 attributes:
-  - code: longtext10
+  - code: body
     value: null
     values:
-      en: <p>Cupiditate dolor tempora non eligendi ab.</p>
+      en: <p>Expedita voluptatem dolorem fugiat quas dolorum qui voluptatem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number11
+  - code: number03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext08
+  - code: image06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool09
+  - code: bool05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: checkbox06
+  - code: monolist09
+    value: null
+    values: {}
+    elements:
+      - code: monolist09
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist09
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link11
     value: null
     values: {}
     elements: []
@@ -40,30 +68,31 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Cupiditate dolor tempora non eligendi ab.</p>
+      en: <p>Expedita voluptatem dolorem fugiat quas dolorum qui voluptatem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach07
+  - code: text08
     value: null
-    values: {}
+    values:
+      en: <p>Expedita voluptatem dolorem fugiat quas dolorum qui voluptatem.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Cupiditate dolor tempora non eligendi ab.</p>
+      en: <p>Expedita voluptatem dolorem fugiat quas dolorum qui voluptatem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp01
+  - code: enumeratormap07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap05
+  - code: timestamp04
     value: null
     values: {}
     elements: []

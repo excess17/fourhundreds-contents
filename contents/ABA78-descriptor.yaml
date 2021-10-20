@@ -6,73 +6,58 @@ status: PUBLIC
 listModel: '800'
 defaultModel: '801'
 attributes:
-  - code: longtext08
+  - code: body
     value: null
     values:
-      en: <p>Explicabo eius unde cumque praesentium consequatur veritatis.</p>
+      en: <p>Et quibusdam aut quisquam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date09
+  - code: number10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext07
+  - code: hypertext11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite01
+  - code: three-state00
     value: null
     values: {}
     elements: []
-    compositeelements:
-      - code: composite01-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite01-boolean
-        value: null
-        values:
-          en: composite01 boolean field
-          it: composite01 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: bool02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Explicabo eius unde cumque praesentium consequatur veritatis.</p>
+      en: <p>Et quibusdam aut quisquam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator02
+  - code: text03
+    value: null
+    values:
+      en: <p>Et quibusdam aut quisquam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext06
-    value: null
-    values:
-      en: <p>Explicabo eius unde cumque praesentium consequatur veritatis.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text11
-    value: null
-    values:
-      en: <p>Explicabo eius unde cumque praesentium consequatur veritatis.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach10
+  - code: attach09
     value: null
     values: {}
     elements: []
@@ -81,7 +66,19 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Explicabo eius unde cumque praesentium consequatur veritatis.</p>
+      en: <p>Et quibusdam aut quisquam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap07
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

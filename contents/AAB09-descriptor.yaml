@@ -9,47 +9,46 @@ attributes:
   - code: body
     value: null
     values:
-      en: <p>Incidunt velit et qui.</p>
+      en: <p>Et nesciunt quaerat.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date10
+  - code: date11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext01
+  - code: image05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite04
+  - code: description
+    value: null
+    values:
+      en: <p>Et nesciunt quaerat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number02
     value: null
     values: {}
     elements: []
-    compositeelements:
-      - code: composite04-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite04-boolean
-        value: null
-        values:
-          en: composite04 boolean field
-          it: composite04 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    compositeelements: []
     listelements: {}
-  - code: monolist08
+  - code: hypertext04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist01
     value: null
     values: {}
     elements:
-      - code: monolist08
+      - code: monolist01
         value: null
         values:
           en: list1 field
@@ -57,7 +56,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist08
+      - code: monolist01
         value: null
         values:
           en: list2 field
@@ -67,13 +66,27 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox05
+  - code: composite07
     value: null
     values: {}
     elements: []
-    compositeelements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite07-boolean
+        value: null
+        values:
+          en: composite07 boolean field
+          it: composite07 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
-  - code: link06
+  - code: checkbox09
     value: null
     values: {}
     elements: []
@@ -82,34 +95,32 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Incidunt velit et qui.</p>
+      en: <p>Et nesciunt quaerat.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext00
-    value: null
-    values:
-      en: <p>Incidunt velit et qui.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text11
-    value: null
-    values:
-      en: <p>Incidunt velit et qui.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator09
+  - code: enumerator08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: description
+  - code: text10
     value: null
     values:
-      en: <p>Incidunt velit et qui.</p>
+      en: <p>Et nesciunt quaerat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp06
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
