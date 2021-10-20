@@ -1,0 +1,77 @@
+id: 62
+typeCode: AAC
+description: Content 2042 description
+mainGroup: free
+status: PUBLIC
+listModel: '20'
+defaultModel: '21'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Corrupti error minus vitae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Corrupti error minus vitae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Corrupti error minus vitae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
